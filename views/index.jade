@@ -1,0 +1,23 @@
+
+block content
+  .container
+  body(style='background-color: green')
+
+    if (!user)
+
+      h2(style='color:gray;text-align:center')
+        p Welcome To My Application
+        a(href="/login") Login
+      
+      h2(style='color:gray;text-align:center')  
+        a(href="/login")  Register
+    if (user)
+      h1(style='color:blue;text-align:center') You are currently logged in my Application #{user.username}
+      br
+      p(style='color:gray;text-align:center')
+          |click here for.............   	  
+          a(href="/logout") Logout
+      br
+      p(style='color:gray;text-align:center')
+        |Check Your Profile.........	  
+        a(href="/profile") View Your Profile

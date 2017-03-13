@@ -1,0 +1,13 @@
+doctype html
+html(lang='en')
+  head
+    title Paaport With Session
+    body(style='background-color: green')
+    h1(style='color:gray;text-align:center')  Hey welcome to passport auth Your profile is :
+    h2(style='color:blue;text-align:center') Name: #{user.username}
+    h2(style='color:yellow;text-align:center') Address: #{user.address}
+    h2(style='color:white;text-align:center') Company Name: #{user.companyName}
+    br
+    p(style='color:gray;text-align:center')
+        |Back to home.........	  
+        a(href="/") Home

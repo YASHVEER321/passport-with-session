@@ -1,0 +1,1795 @@
+
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://dcrazed.com/xmlrpc.php" />
+<title>27 Best Responsive HTML Landing Page Templates</title>
+<meta property="og:title" content="27 Best Responsive HTML Landing Page Templates - Designscrazed"/>
+<meta property="og:type" content="article"/>
+<meta property="og:description" content="Landing Page Templates will get you started to launch your new product, app or letting users signup,"/>
+<meta property="og:url" content="https://dcrazed.com/html-landing-page-templates/"/>
+<meta property="og:site_name" content="Designscrazed"/>
+<meta property="og:image" content="https://dcrazed.com/wp-content/uploads/2015/12/rome-660x330.jpg" />
+
+<!-- This site is optimized with the Yoast SEO plugin v4.0.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Get free and premium responsive html landing page templates with quality actions to convert well by creating squeeze pages for your visitors."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="https://dcrazed.com/html-landing-page-templates/" />
+<link rel="publisher" href="https://plus.google.com/+Designscrazed"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="27 Best Responsive HTML Landing Page Templates" />
+<meta property="og:description" content="Get free and premium responsive html landing page templates with quality actions to convert well by creating squeeze pages for your visitors." />
+<meta property="og:url" content="https://dcrazed.com/html-landing-page-templates/" />
+<meta property="og:site_name" content="Designscrazed" />
+<meta property="article:publisher" content="https://www.facebook.com/Designscrazed-547192772015637/" />
+<meta property="article:author" content="https://www.facebook.com/pages/Designscrazed/547192772015637" />
+<meta property="article:section" content="HTML5" />
+<meta property="article:published_time" content="2016-08-24T07:20:00+00:00" />
+<meta property="article:modified_time" content="2016-09-10T14:52:17+00:00" />
+<meta property="og:updated_time" content="2016-09-10T14:52:17+00:00" />
+<meta property="fb:admins" content="alliekingsley123" />
+<meta property="og:image" content="https://dcrazed.com/wp-content/uploads/2015/12/rome.jpg" />
+<meta property="og:image:width" content="700" />
+<meta property="og:image:height" content="500" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Get free and premium responsive html landing page templates with quality actions to convert well by creating squeeze pages for your visitors." />
+<meta name="twitter:title" content="27 Best Responsive HTML Landing Page Templates" />
+<meta name="twitter:site" content="@designscrazed" />
+<meta name="twitter:image" content="https://dcrazed.com/wp-content/uploads/2015/12/rome.jpg" />
+<meta name="twitter:creator" content="@designscrazed" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Designscrazed &raquo; Feed" href="https://dcrazed.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Designscrazed &raquo; Comments Feed" href="https://dcrazed.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Designscrazed &raquo; 27 Best Responsive HTML Landing Page Templates Comments Feed" href="https://dcrazed.com/html-landing-page-templates/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/dcrazed.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='dlm-frontend-css'  href='https://dcrazed.com/wp-content/plugins/download-monitor/assets/css/frontend.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-style-css'  href='https://dcrazed.com/wp-content/themes/newv/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='Droid+Sans-css'  href='https://fonts.googleapis.com/css?family=Droid+Sans%3Aregular%2C700' type='text/css' media='all' />
+<script type='text/javascript' src='https://dcrazed.com/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://dcrazed.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<link rel='https://api.w.org/' href='https://dcrazed.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://dcrazed.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://dcrazed.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://dcrazed.com/?p=3858' />
+<link rel="alternate" type="application/json+oembed" href="https://dcrazed.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdcrazed.com%2Fhtml-landing-page-templates%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://dcrazed.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdcrazed.com%2Fhtml-landing-page-templates%2F&#038;format=xml" />
+<link rel="shortcut icon" href="https://dcrazed.com/wp-content/uploads/2016/07/favo.png" title="Favicon" />	
+<!--[if IE]>
+<script type="text/javascript">jQuery(document).ready(function (){ jQuery(".menu-item").has("ul").children("a").attr("aria-haspopup", "true");});</script>
+<![endif]-->	
+<!--[if lt IE 9]>
+<script src="https://dcrazed.com/wp-content/themes/newv/js/html5.js"></script>
+<script src="https://dcrazed.com/wp-content/themes/newv/js/selectivizr-min.js"></script>
+<![endif]-->
+<!--[if IE 9]>
+<link rel="stylesheet" type="text/css" media="all" href="https://dcrazed.com/wp-content/themes/newv/css/ie9.css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" media="all" href="https://dcrazed.com/wp-content/themes/newv/css/ie8.css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" media="all" href="https://dcrazed.com/wp-content/themes/newv/css/ie7.css" />
+<![endif]-->
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-81278858-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "https://dcrazed.com/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://dcrazed.com/?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+<style type="text/css" media="screen"> 
+
+body{
+	color :#696969;
+	font-weight: normal;
+	font-style: normal;
+}
+
+#main-nav,
+.cat-box-content,
+#sidebar .widget-container,
+.post-listing,
+#commentform {
+	border-bottom-color: #3291d1;
+}
+	
+.search-block .search-button,
+#topcontrol,
+#main-nav ul li.current-menu-item a,
+#main-nav ul li.current-menu-item a:hover,
+#main-nav ul li.current_page_parent a,
+#main-nav ul li.current_page_parent a:hover,
+#main-nav ul li.current-menu-parent a,
+#main-nav ul li.current-menu-parent a:hover,
+#main-nav ul li.current-page-ancestor a,
+#main-nav ul li.current-page-ancestor a:hover,
+.pagination span.current,
+.share-post span.share-text,
+.flex-control-paging li a.flex-active,
+.ei-slider-thumbs li.ei-slider-element,
+.review-percentage .review-item span span,
+.review-final-score,
+.button,
+a.button,
+a.more-link,
+#main-content input[type="submit"],
+.form-submit #submit,
+#login-form .login-button,
+.widget-feedburner .feedburner-subscribe,
+input[type="submit"],
+#buddypress button,
+#buddypress a.button,
+#buddypress input[type=submit],
+#buddypress input[type=reset],
+#buddypress ul.button-nav li a,
+#buddypress div.generic-button a,
+#buddypress .comment-reply-link,
+#buddypress div.item-list-tabs ul li a span,
+#buddypress div.item-list-tabs ul li.selected a,
+#buddypress div.item-list-tabs ul li.current a,
+#buddypress #members-directory-form div.item-list-tabs ul li.selected span,
+#members-list-options a.selected,
+#groups-list-options a.selected,
+body.dark-skin #buddypress div.item-list-tabs ul li a span,
+body.dark-skin #buddypress div.item-list-tabs ul li.selected a,
+body.dark-skin #buddypress div.item-list-tabs ul li.current a,
+body.dark-skin #members-list-options a.selected,
+body.dark-skin #groups-list-options a.selected,
+.search-block-large .search-button,
+#featured-posts .flex-next:hover,
+#featured-posts .flex-prev:hover,
+a.tie-cart span.shooping-count,
+.woocommerce span.onsale,
+.woocommerce-page span.onsale ,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle,
+#check-also-close,
+a.post-slideshow-next,
+a.post-slideshow-prev,
+.widget_price_filter .ui-slider .ui-slider-handle,
+.quantity .minus:hover,
+.quantity .plus:hover,
+.mejs-container .mejs-controls .mejs-time-rail .mejs-time-current,
+#reading-position-indicator  {
+	background-color:#3291d1;
+}
+
+::-webkit-scrollbar-thumb{
+	background-color:#3291d1 !important;
+}
+	
+#theme-footer,
+#theme-header,
+.top-nav ul li.current-menu-item:before,
+#main-nav .menu-sub-content ,
+#main-nav ul ul,
+#check-also-box { 
+	border-top-color: #3291d1;
+}
+	
+.search-block:after {
+	border-right-color:#3291d1;
+}
+
+body.rtl .search-block:after {
+	border-left-color:#3291d1;
+}
+
+#main-nav ul > li.menu-item-has-children:hover > a:after,
+#main-nav ul > li.mega-menu:hover > a:after {
+	border-color:transparent transparent #3291d1;
+}
+	
+.widget.timeline-posts li a:hover,
+.widget.timeline-posts li a:hover span.tie-date {
+	color: #3291d1;
+}
+
+.widget.timeline-posts li a:hover span.tie-date:before {
+	background: #3291d1;
+	border-color: #3291d1;
+}
+
+#order_review,
+#order_review_heading {
+	border-color: #3291d1;
+}
+
+	
+body {
+	background-color: #878587 !important;
+	background-image : url(https://dcrazed.com/wp-content/themes/newv/images/patterns/body-bg34.png);
+	background-position: top center;
+}
+
+body.single .post .entry a, body.page .post .entry a {
+	color: #2d4fd6;
+}
+		
+body.single .post .entry a:hover, body.page .post .entry a:hover {
+	color: #0f0fbd;
+}
+		
+p.quote {
+    font-size: 16px;
+    border-left: 4px solid #77cc6d;
+    color: #999;
+    padding: 5px 10px !important;
+    font-family: "Georgia";
+    line-height: 28px;
+    font-style: italic;
+    border-width: 0 0 0 4px;
+}
+figcaption.wp-caption-text {
+    margin-bottom: 20px;
+    text-indent: 10px;
+    margin-top: 5px;
+    color: #696969;
+}
+i.sw,span.swp_count {
+    color: #fff;
+}
+.widget-top h4 {
+    font-size: 16px;
+    font-family: Droid Sans, serif;
+}
+a.shortc-button{     
+-webkit-border-radius: 3;
+    -moz-border-radius: 3;
+      border-radius: 3px;
+     background: #77cc6d;
+    color: #fff !important;
+    text-transform: uppercase;
+    padding: 8px 14px 8px 14px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.5);
+    display: inline-block;
+    margin: 10px 5px 10px 2px;
+}
+
+a.shortc-button:hover{
+     background: #8ED586 !important;
+}
+a.shortc-button.blue {
+    background: #3498db !important;
+}
+a.shortc-button.blue:hover {
+    background: #52A7E0 !important;
+}
+.gallery {
+padding: 20px;
+}
+.single-post #crumbs {
+border:none;
+margin-bottom: 0;
+padding: 10px 0 10px 20px;
+background: #3291D1;
+color: #f5f7fa;
+}
+.single-post #crumbs a{
+color: #f5f7fa;
+}
+.single-post .content {
+margin-top: -25px;
+}
+
+.rioad {
+    padding: 20px 20px 5px 5px;
+    float: left;
+ }
+.rioadbelow {
+text-align:center;
+}
+
+
+ 
+ .widget li {
+     padding: 12px 20px 12px;
+background: none;
+ }
+
+@media screen and ( min-width: 1200px ) {
+
+
+#wrapper.wide-layout .header-content,
+#wrapper.wide-layout .breaking-news,
+#wrapper.wide-layout .container,
+#wrapper.wide-layout #main-nav ul li.mega-menu .mega-menu-block {
+    width: 1110px;
+}
+.content {
+    width: 760px !important;
+}
+
+#wrapper.boxed-all {
+    width: 1145px;
+}	
+#wrapper.boxed-all #main-content {
+    width: 1097px;
+}	
+.container {
+    width: 1145px;
+}
+}
+/*.item-list {
+    padding: 30px 0 !important;
+}*/
+.widget .post-thumbnail {
+padding: 6px 0;
+}
+.widget-container h3 {
+    padding: 6px 0;
+}
+.entry h4 {
+   margin-bottom: 32px;
+}
+.block-head h4 {
+    float: left;
+    margin-right: 10px;
+    font-size: 22px;
+    font-family: BebasNeueRegular, arial, Georgia, serif;
+}
+@media screen and ( max-width: 1350px ) {
+
+.mainBoxArt {
+	display:none;
+}
+
+}
+
+.wea_name {
+    font-size: 20pt;
+    margin-bottom: 10px;
+    font-family: BebasNeueRegular,arial,Georgia,serif;
+	color: #3291D1 !important;
+}
+.wea_desc {
+    font-weight: bold;
+    text-transform: capitalize;
+    margin-bottom: 5px;
+	border-left: 1px solid #CCCCCC;
+    padding-left: 5px;
+	padding-top: 1.0em;
+    padding-bottom: 1.0em;
+}
+
+.mainBoxArt {
+    position: absolute;
+    width: 135px;
+    background: #fff;
+    top: 550px;
+    left: -120px;
+    padding: 8px;
+    padding-right: 1px;
+    padding-top: 8px;
+    z-index: 1000;
+    border-top: 1px solid #D8D8D8;
+    -webkit-box-shadow: inset 1px 1px 2px rgba(155, 155, 155, 0.4);
+    border-left: 1px solid #d8d8d8;
+    border-bottom: 1px solid #D8D8D8;
+}
+
+.highlight-boxArt {
+    width: 135px;
+}
+
+.lastList {
+    top: 0;
+    margin-top: 0;
+    width: 135px;
+    margin-top: 12px;
+    padding-right: 10px;
+}
+
+.lastList li {
+    margin-bottom: 12px;
+	list-style: none !important;
+    margin: 0 !important;
+}
+
+.articleButton {
+    background-color: #E23002;
+    border-radius: 3px;
+    font-size: 14px;
+    font-weight: 700;
+    width: 105px;
+    padding: 5px 4px;
+    text-align: center;
+    margin-top: 12px;
+    color: #fff;
+}
+
+.datetime {
+    font-size: 11px;    
+    color: #CCC;
+	border-left: 1px solid #CCCCCC;
+    padding-left: 5px;
+	margin-top: -5px;
+    padding-bottom: 1.0em;
+}
+.article-style{
+
+    background:#f5f7fa;
+    padding:10px 10px 15px 15px;
+    margin-bottom:10px;
+}
+.entry p {
+    padding: 0 10px 10px 5px;
+    line-height: 1.9;
+}
+.themepage-text{
+ -webkit-box-shadow: 10px 10px 41px -15px rgba(194,194,196,1);
+-moz-box-shadow: 10px 10px 41px -15px rgba(194,194,196,1);
+box-shadow: 10px 10px 41px -15px rgba(194,194,196,1);
+border-radius:5px;
+}
+.globalb {
+
+border: none;
+    cursor: pointer;
+    padding: 0 10px;
+    display: inline-block;
+     margin: 10px 4px 0;
+    font-weight: 700;
+    outline: none;
+    position: relative;
+    background: #bdc3c7;
+    color: #fff!important;
+width:200px;
+    text-decoration: none;
+    font-size: 14px;
+    height: 45px;
+    line-height: 45px;
+    opacity: .9;
+    overflow: hidden;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.globalb i {
+    margin-right: 10px;
+}
+.blue-button {
+	background: #3498db;
+}
+.blue-button:hover {
+	background: #1585d0;
+}
+.green-button {
+        background: #2ecc71;
+}
+.green-button:hover {
+        background: #0bbd56;
+}
+
+/* Even smaller viewports — more tablets, etc. */
+ 
+@media only screen and (max-width: 740px) {
+.new-box .boxi {
+	width:calc(100% / 2 - 30px);
+}
+}
+/* Mobile phones (Landscape) and Tablets (Portrait) */
+ 
+@media only screen and (max-width: 480px) {
+.new-box .boxi {
+	width:calc(100% - 30px);
+}
+
+}
+
+@media only screen and (max-width: 1199px) {
+.logo {
+    float: none !important;
+    text-align: center;
+    margin: 0 !important;
+    clear: both;
+}
+
+}
+@media only screen and (max-width: 792px) {
+.ico-section{
+   width:100%;
+}
+
+}
+blockquote {
+    font-size: 16px;
+    border-left: 4px solid #77cc6d;
+}
+.entry ul li:before {
+    content: "\f054";
+    font-size: 12px;
+    color: #77CC6D;
+   margin-right:7px;
+  font-family: "FontAwesome";
+   }
+
+ .entry ul li {
+    list-style: none;
+}
+.tie-list-shortcode.plus ul li:before {
+    content: "\f067";
+    color: #77CC6D;
+}
+.tie-list-shortcode.minus ul li:before {
+    content: "\f068";
+    color: #555;
+}@media only screen and (max-width: 767px) and (min-width: 480px){
+	.e3lan-top {
+display:none;
+}
+}
+
+@media only screen and (max-width: 479px) and (min-width: 320px){
+	.e3lan-top {
+display:none;
+}
+}
+
+</style> 
+
+
+<!-- BEGIN recaptcha, injected by plugin wp-recaptcha-integration  -->
+
+<!-- END recaptcha -->
+</head>
+<body id="top" class="single single-post postid-3858 single-format-standard lazy-enabled">
+
+<div class="wrapper-outer">
+
+	<div class="background-cover"></div>
+
+	<aside id="slide-out">
+	
+			<div class="search-mobile">
+			<form method="get" id="searchform-mobile" action="https://dcrazed.com/">
+				<button class="search-button" type="submit" value="Search"><i class="fa fa-search"></i></button>	
+				<input type="text" id="s-mobile" name="s" title="Search" value="Search" onfocus="if (this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}"  />
+			</form>
+		</div><!-- .search-mobile /-->
+		
+			<div class="social-icons">
+		<a class="ttip-none" title="Rss" href="https://feeds.feedburner.com/Dcrazed" target="_blank"><i class="fa fa-rss"></i></a><a class="ttip-none" title="Google+" href="https://plus.google.com/+Designscrazed" target="_blank"><i class="fa fa-google-plus"></i></a><a class="ttip-none" title="Facebook" href="https://www.facebook.com/Designscrazed-547192772015637/" target="_blank"><i class="fa fa-facebook"></i></a><a class="ttip-none" title="Twitter" href="https://twitter.com/designscrazed" target="_blank"><i class="fa fa-twitter"></i></a>
+			</div>
+
+		
+		<div id="mobile-menu" ></div>
+	</aside><!-- #slide-out /-->
+
+		<div id="wrapper" class="wide-layout">
+		<div class="inner-wrapper">
+
+		<header id="theme-header" class="theme-header">
+						<div id="top-nav" class="top-nav">
+				<div class="container">
+
+							<span class="today-date">Tuesday ,  28  February 2017</span>					
+				
+						<div class="search-block">
+						<form method="get" id="searchform-header" action="https://dcrazed.com/">
+							<button class="search-button" type="submit" value="Search"><i class="fa fa-search"></i></button>	
+							<input class="search-live" type="text" id="s-header" name="s" title="Search" value="Search" onfocus="if (this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}"  />
+						</form>
+					</div><!-- .search-block /-->
+			<div class="social-icons">
+		<a class="ttip-none" title="Rss" href="https://feeds.feedburner.com/Dcrazed" target="_blank"><i class="fa fa-rss"></i></a><a class="ttip-none" title="Google+" href="https://plus.google.com/+Designscrazed" target="_blank"><i class="fa fa-google-plus"></i></a><a class="ttip-none" title="Facebook" href="https://www.facebook.com/Designscrazed-547192772015637/" target="_blank"><i class="fa fa-facebook"></i></a><a class="ttip-none" title="Twitter" href="https://twitter.com/designscrazed" target="_blank"><i class="fa fa-twitter"></i></a>
+			</div>
+
+		
+	
+				</div><!-- .container /-->
+			</div><!-- .top-menu /-->
+			
+		<div class="header-content">
+		
+					<a id="slide-out-open" class="slide-out-open" href="#"><span></span></a>
+				
+			<div class="logo">
+			<h2>								<a title="Designscrazed" href="https://dcrazed.com/">
+					<img src="https://dcrazed.com/wp-content/uploads/2016/07/newlogo.png" alt="Designscrazed"  /><strong>Designscrazed A Web Design Inspiration Blog that also make WordPress Themes</strong>
+				</a>
+			</h2>			</div><!-- .logo /-->
+			<div class="e3lan e3lan-top">			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Header - set 1 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4397412252424400"
+     data-ad-slot="3856149235"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>				</div>			<div class="clear"></div>
+			
+		</div>	
+													<nav id="main-nav">
+				<div class="container">
+				
+				
+					<div class="main-menu"><ul id="menu-home1" class="menu"><li id="menu-item-9890" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9890"><a href="/"><i class="fa fa-home"></i>Home</a></li>
+<li id="menu-item-11566" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-11566 mega-menu mega-recent-featured "><a href="https://dcrazed.com/category/coding/"><i class="fa fa-code"></i>Coding</a>
+<div class="mega-menu-block menu-sub-content">
+
+<ul class="mega-recent-featured-list sub-list">
+	<li id="menu-item-11571" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11571"><a href="https://dcrazed.com/category/coding/css3/">CSS3</a></li>
+	<li id="menu-item-11572" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11572"><a href="https://dcrazed.com/category/coding/javascript/">JavaScript</a></li>
+</ul>
+
+<div class="mega-menu-content">
+<div class="mega-recent-post"><div class="post-thumbnail"><a class="mega-menu-link" href="https://dcrazed.com/jquery-navigation-plugins-menus/" title="40 Free Responsive CSS3 jQuery Navigation Menus with Live Examples"><img src="https://dcrazed.com/wp-content/uploads/2014/03/slidebars1.jpg" width="660" height="330" alt="40 Free Responsive CSS3 jQuery Navigation Menus with Live Examples" /><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://dcrazed.com/jquery-navigation-plugins-menus/" title="40 Free Responsive CSS3 jQuery Navigation Menus with Live Examples">40 Free Responsive CSS3 jQuery Navigation Menus with Live Examples</a></h3>
+						
+						</div> <!-- mega-recent-post --><div class="mega-check-also"><ul><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://dcrazed.com/free-responsive-jquery-image-sliders/" title="30 Free Responsive jQuery Image Sliders and Slideshows"><img src="https://dcrazed.com/wp-content/uploads/2016/03/jquery-new-slider-free-110x75.jpg" width="110" height="75" alt="30 Free Responsive jQuery Image Sliders and Slideshows" /><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://dcrazed.com/free-responsive-jquery-image-sliders/" title="30 Free Responsive jQuery Image Sliders and Slideshows">30 Free Responsive jQuery Image Sliders and Slideshows</a></h3></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://dcrazed.com/html-css-pricing-table-templates/" title="30 Best HTML CSS Pricing Table Templates, Tutorials"><img src="https://dcrazed.com/wp-content/uploads/2015/12/simple-pricing-tables-110x75.jpg" width="110" height="75" alt="30 Best HTML CSS Pricing Table Templates, Tutorials" /><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://dcrazed.com/html-css-pricing-table-templates/" title="30 Best HTML CSS Pricing Table Templates, Tutorials">30 Best HTML CSS Pricing Table Templates, Tutorials</a></h3></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://dcrazed.com/best-free-jquery-plugins/" title="30 Best Free jQuery Plugins 2016"><img src="https://dcrazed.com/wp-content/uploads/2014/03/croppic-110x75.jpg" width="110" height="75" alt="30 Best Free jQuery Plugins 2016" /><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://dcrazed.com/best-free-jquery-plugins/" title="30 Best Free jQuery Plugins 2016">30 Best Free jQuery Plugins 2016</a></h3></li></ul></div> <!-- mega-check-also -->
+</div><!-- .mega-menu-content --> 
+</div><!-- .mega-menu-block --> 
+</li>
+<li id="menu-item-9885" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-9885 mega-menu mega-recent-featured "><a href="https://dcrazed.com/category/graphics/"><i class="fa fa-paint-brush"></i>Graphics</a>
+<div class="mega-menu-block menu-sub-content">
+
+<ul class="mega-recent-featured-list sub-list">
+	<li id="menu-item-11568" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11568"><a href="https://dcrazed.com/category/graphics/psd/">PSD</a></li>
+	<li id="menu-item-11569" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11569"><a href="https://dcrazed.com/category/graphics/tutorials/">Tutorials</a></li>
+	<li id="menu-item-11570" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11570"><a href="https://dcrazed.com/category/graphics/vector/">Vector</a></li>
+</ul>
+
+<div class="mega-menu-content">
+<div class="mega-recent-post"><div class="post-thumbnail"><a class="mega-menu-link" href="https://dcrazed.com/free-vector-web-icons/" title="90+ Free High Quality Vector Web Icon Sets"><img src="https://dcrazed.com/wp-content/uploads/2016/02/Valentine-Day-Icons-500x330.jpg" width="660" height="330" alt="90+ Free High Quality Vector Web Icon Sets" /><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://dcrazed.com/free-vector-web-icons/" title="90+ Free High Quality Vector Web Icon Sets">90+ Free High Quality Vector Web Icon Sets</a></h3>
+						
+						</div> <!-- mega-recent-post --><div class="mega-check-also"><ul><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://dcrazed.com/best-free-resume-templates/" title="26 Best Free Resume Templates | PSD, AI, Word DocX"><img src="https://dcrazed.com/wp-content/uploads/2016/02/vertical-resume-template-110x75.jpg" width="110" height="75" alt="26 Best Free Resume Templates | PSD, AI, Word DocX" /><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://dcrazed.com/best-free-resume-templates/" title="26 Best Free Resume Templates | PSD, AI, Word DocX">26 Best Free Resume Templates | PSD, AI, Word DocX</a></h3></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://dcrazed.com/best-free-psd-files/" title="130+ Best Free PSD Files for Download"><img src="https://dcrazed.com/wp-content/uploads/2016/02/Free-PSD-Login-Form-110x75.jpg" width="110" height="75" alt="130+ Best Free PSD Files for Download" /><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://dcrazed.com/best-free-psd-files/" title="130+ Best Free PSD Files for Download">130+ Best Free PSD Files for Download</a></h3></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://dcrazed.com/free-social-media-icons/" title="30+ Free Social Media Icons 2017 in PSD and Vector"><img src="https://dcrazed.com/wp-content/uploads/2016/05/social_media_icon_design-110x75.jpg" width="110" height="75" alt="30+ Free Social Media Icons 2017 in PSD and Vector" /><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://dcrazed.com/free-social-media-icons/" title="30+ Free Social Media Icons 2017 in PSD and Vector">30+ Free Social Media Icons 2017 in PSD and Vector</a></h3></li></ul></div> <!-- mega-check-also -->
+</div><!-- .mega-menu-content --> 
+</div><!-- .mega-menu-block --> 
+</li>
+<li id="menu-item-9886" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-9886 mega-menu mega-recent-featured "><a href="https://dcrazed.com/category/inspiration/"><i class="fa fa-tint"></i>Inspiration</a>
+<div class="mega-menu-block menu-sub-content">
+
+<ul class="mega-recent-featured-list sub-list">
+	<li id="menu-item-11576" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11576"><a href="https://dcrazed.com/category/inspiration/browser/">Browser</a></li>
+	<li id="menu-item-11573" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11573"><a href="https://dcrazed.com/category/inspiration/logo-design/">Logo Design</a></li>
+	<li id="menu-item-11574" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11574"><a href="https://dcrazed.com/category/inspiration/photography/">Photography</a></li>
+	<li id="menu-item-11575" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11575"><a href="https://dcrazed.com/category/inspiration/web-design/">Web Design</a></li>
+</ul>
+
+<div class="mega-menu-content">
+<div class="mega-recent-post"><div class="post-thumbnail"><a class="mega-menu-link" href="https://dcrazed.com/business-logo-inspiration/" title="43 Examples of Business Logos for Design Inspiration"><img src="https://dcrazed.com/wp-content/uploads/2016/02/Lazy-Business.jpg" width="660" height="330" alt="43 Examples of Business Logos for Design Inspiration" /><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://dcrazed.com/business-logo-inspiration/" title="43 Examples of Business Logos for Design Inspiration">43 Examples of Business Logos for Design Inspiration</a></h3>
+						
+						</div> <!-- mega-recent-post --><div class="mega-check-also"><ul><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://dcrazed.com/creative-design-portfolios-for-inspiration/" title="35 Creative Design Portfolios for inspiration"><img src="https://dcrazed.com/wp-content/uploads/2014/09/The-Tech-Beach-110x75.jpg" width="110" height="75" alt="35 Creative Design Portfolios for inspiration" /><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://dcrazed.com/creative-design-portfolios-for-inspiration/" title="35 Creative Design Portfolios for inspiration">35 Creative Design Portfolios for inspiration</a></h3></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://dcrazed.com/photography-websites-examples/" title="23 Best Photography Websites Examples and Designs"><img src="https://dcrazed.com/wp-content/uploads/2015/10/Iggy-Smalls-110x75.jpg" width="110" height="75" alt="23 Best Photography Websites Examples and Designs" /><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://dcrazed.com/photography-websites-examples/" title="23 Best Photography Websites Examples and Designs">23 Best Photography Websites Examples and Designs</a></h3></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://dcrazed.com/well-crafted-photography-logos/" title="30+ Well Crafted Photography Logos Used in Studios, Websites"><img src="https://dcrazed.com/wp-content/uploads/2015/11/coldcrisps-110x75.jpg" width="110" height="75" alt="30+ Well Crafted Photography Logos Used in Studios, Websites" /><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://dcrazed.com/well-crafted-photography-logos/" title="30+ Well Crafted Photography Logos Used in Studios, Websites">30+ Well Crafted Photography Logos Used in Studios, Websites</a></h3></li></ul></div> <!-- mega-check-also -->
+</div><!-- .mega-menu-content --> 
+</div><!-- .mega-menu-block --> 
+</li>
+<li id="menu-item-9888" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-9888 mega-menu mega-recent-featured "><a href="https://dcrazed.com/category/website-templates/"><i class="fa fa-slack"></i>Website Templates</a>
+<div class="mega-menu-block menu-sub-content">
+
+<div class="mega-menu-content">
+<div class="mega-recent-post"><div class="post-thumbnail"><a class="mega-menu-link" href="https://dcrazed.com/html5-church-website-templates/" title="26 Best HTML5 Church and Charity Website Templates"><img src="https://dcrazed.com/wp-content/uploads/2015/12/CharityFund-660x330.jpg" width="660" height="330" alt="26 Best HTML5 Church and Charity Website Templates" /><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://dcrazed.com/html5-church-website-templates/" title="26 Best HTML5 Church and Charity Website Templates">26 Best HTML5 Church and Charity Website Templates</a></h3>
+						
+						</div> <!-- mega-recent-post --><div class="mega-check-also"><ul><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://dcrazed.com/best-responsive-html-email-templates/" title="35 Best Responsive HTML Email Templates (Free, Premium)"><img src="https://dcrazed.com/wp-content/uploads/2016/02/free-email-newsletter-template-110x75.jpg" width="110" height="75" alt="35 Best Responsive HTML Email Templates (Free, Premium)" /><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://dcrazed.com/best-responsive-html-email-templates/" title="35 Best Responsive HTML Email Templates (Free, Premium)">35 Best Responsive HTML Email Templates (Free, Premium)</a></h3></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://dcrazed.com/html5-magazine-website-templates/" title="28 Responsive HTML5 Magazine Website Templates"><img src="https://dcrazed.com/wp-content/uploads/2016/02/burstfly-html-110x75.jpg" width="110" height="75" alt="28 Responsive HTML5 Magazine Website Templates" /><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://dcrazed.com/html5-magazine-website-templates/" title="28 Responsive HTML5 Magazine Website Templates">28 Responsive HTML5 Magazine Website Templates</a></h3></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://dcrazed.com/corporate-html5-website-templates/" title="27 Best Corporate HTML5 Website Templates"><img src="https://dcrazed.com/wp-content/uploads/2015/08/free-corporate-template-110x75.jpg" width="110" height="75" alt="27 Best Corporate HTML5 Website Templates" /><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://dcrazed.com/corporate-html5-website-templates/" title="27 Best Corporate HTML5 Website Templates">27 Best Corporate HTML5 Website Templates</a></h3></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://dcrazed.com/the-best-html-photography-website-templates/" title="20+ Best HTML5 Photography Website Templates in 2017"><img src="https://dcrazed.com/wp-content/uploads/2015/12/lydia-110x75.jpg" width="110" height="75" alt="20+ Best HTML5 Photography Website Templates in 2017" /><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://dcrazed.com/the-best-html-photography-website-templates/" title="20+ Best HTML5 Photography Website Templates in 2017">20+ Best HTML5 Photography Website Templates in 2017</a></h3></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://dcrazed.com/free-responsive-html5-css3-templates/" title="66 Free Responsive HTML5 CSS3 Website Templates 2017"><img src="https://dcrazed.com/wp-content/uploads/2016/07/space-free-agency-template-110x75.jpg" width="110" height="75" alt="66 Free Responsive HTML5 CSS3 Website Templates 2017" /><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://dcrazed.com/free-responsive-html5-css3-templates/" title="66 Free Responsive HTML5 CSS3 Website Templates 2017">66 Free Responsive HTML5 CSS3 Website Templates 2017</a></h3></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://dcrazed.com/best-ghost-themes/" title="30+ Best Ghost Themes 2017 in Free &#038; Premium"><img src="https://dcrazed.com/wp-content/uploads/2016/02/ecko-themes-110x75.jpg" width="110" height="75" alt="30+ Best Ghost Themes 2017 in Free &#038; Premium" /><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://dcrazed.com/best-ghost-themes/" title="30+ Best Ghost Themes 2017 in Free &#038; Premium">30+ Best Ghost Themes 2017 in Free &#038; Premium</a></h3></li></ul></div> <!-- mega-check-also -->
+</div><!-- .mega-menu-content --> 
+</div><!-- .mega-menu-block --> 
+</li>
+<li id="menu-item-9889" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-9889 mega-menu mega-recent-featured "><a href="https://dcrazed.com/category/wordpress/"><i class="fa fa-wordpress"></i>WordPress</a>
+<div class="mega-menu-block menu-sub-content">
+
+<ul class="mega-recent-featured-list sub-list">
+	<li id="menu-item-11577" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11577"><a href="#">Free Ones</a>
+	<ul class="sub-menu menu-sub-content">
+		<li id="menu-item-11838" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11838"><a href="https://dcrazed.com/free-artistic-wordpress-themes/">Artistic</a></li>
+		<li id="menu-item-11519" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11519"><a href="https://dcrazed.com/personal-wordpress-blog-themes/">Blog</a></li>
+		<li id="menu-item-11520" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11520"><a href="https://dcrazed.com/wordpress-business-themes/">Business</a></li>
+		<li id="menu-item-11529" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11529"><a href="https://dcrazed.com/best-wordpress-business-corporate-themes/">Corporate</a></li>
+		<li id="menu-item-11530" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11530"><a href="https://dcrazed.com/small-business-wordpress-themes/">Small Business</a></li>
+		<li id="menu-item-11521" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11521"><a href="https://dcrazed.com/free-wordpress-ecommerce-themes/">eCommerce</a></li>
+		<li id="menu-item-11522" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11522"><a href="https://dcrazed.com/free-food-wordpress-themes/">Food, Restaurant</a></li>
+		<li id="menu-item-11523" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11523"><a href="https://dcrazed.com/free-responsive-wordpress-magazine-themes/">Magazine</a></li>
+		<li id="menu-item-11837" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11837"><a href="https://dcrazed.com/free-minimalistic-wordpress-themes/">Minimalistic</a></li>
+		<li id="menu-item-11524" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11524"><a href="https://dcrazed.com/premium-magazine-wordpress-themes/">News, Editorial</a></li>
+		<li id="menu-item-11526" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11526"><a href="https://dcrazed.com/free-premium-wordpress-themes/">Premium</a></li>
+		<li id="menu-item-11527" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11527"><a href="https://dcrazed.com/creative-responsive-photography-wordpress-themes/">Photography</a></li>
+		<li id="menu-item-11528" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11528"><a href="https://dcrazed.com/premium-photography-wordpress-themes/">Photography Studios</a></li>
+		<li id="menu-item-11553" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11553"><a href="https://dcrazed.com/25-best-full-screen-wordpress-themes/">Full Screen</a></li>
+		<li id="menu-item-11532" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11532"><a href="https://dcrazed.com/free-portfolio-wordpress-themes/">Portfolio</a></li>
+		<li id="menu-item-11531" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11531"><a href="https://dcrazed.com/best-creative-portfolio-wordpress-themes/">Creative Portfolio</a></li>
+	</ul>
+</li>
+	<li id="menu-item-11534" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11534"><a href="https://dcrazed.com/category/wordpress/themes/">Theme Collections</a>
+	<ul class="sub-menu menu-sub-content">
+		<li id="menu-item-11536" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11536"><a href="https://dcrazed.com/wordpress-travel-themes-like-airbnb/">Airbnb</a></li>
+		<li id="menu-item-11537" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11537"><a href="https://dcrazed.com/lawyer-wordpress-themes/">Attorney &#038; Lawyer</a></li>
+		<li id="menu-item-11550" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11550"><a href="https://dcrazed.com/best-classifieds-wordpress-directory-themes/">Directory, Listing</a></li>
+		<li id="menu-item-11548" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11548"><a href="https://dcrazed.com/best-fashion-wordpress-themes/">Fashion Shops</a></li>
+		<li id="menu-item-11538" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11538"><a href="https://dcrazed.com/free-responsive-wordpress-themes/">Free Themes</a></li>
+		<li id="menu-item-11545" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11545"><a href="https://dcrazed.com/best-wordpress-game-themes/">Game</a></li>
+		<li id="menu-item-11543" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11543"><a href="https://dcrazed.com/wordpress-genesis-child-themes/">Genesis</a></li>
+		<li id="menu-item-11539" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11539"><a href="https://dcrazed.com/hotel-booking-wordpress-themes/">Hotel Booking</a></li>
+		<li id="menu-item-11540" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11540"><a href="https://dcrazed.com/job-board-themes-for-wordpress/">Job Board</a></li>
+		<li id="menu-item-11547" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11547"><a href="https://dcrazed.com/professional-metro-wordpress-themes/">Metro Tech</a></li>
+		<li id="menu-item-11541" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11541"><a href="https://dcrazed.com/responsive-real-estate-wordpress-themes/">Real Estate</a></li>
+		<li id="menu-item-11535" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11535"><a href="https://dcrazed.com/best-wordpress-travel-themes/">Travel</a></li>
+		<li id="menu-item-11549" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11549"><a href="https://dcrazed.com/responsive-hosting-wordpress-themes/">Hosting</a></li>
+		<li id="menu-item-11546" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11546"><a href="https://dcrazed.com/best-wedding-wordpress-themes/">Wedding</a></li>
+	</ul>
+</li>
+	<li id="menu-item-11552" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11552"><a href="https://dcrazed.com/category/wordpress/themes/">Theme Collections</a>
+	<ul class="sub-menu menu-sub-content">
+		<li id="menu-item-11557" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11557"><a href="https://dcrazed.com/flat-wordpress-admin-themes/">Admin</a></li>
+		<li id="menu-item-11542" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11542"><a href="https://dcrazed.com/best-wordpress-affiliate-marketing-themes/">Affiliate Marketing</a></li>
+		<li id="menu-item-11544" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11544"><a href="https://dcrazed.com/best-of-wordpress-architect-themes/">Architecture</a></li>
+		<li id="menu-item-11559" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11559"><a href="https://dcrazed.com/responsive-flat-wordpress-themes/">Flat Design</a></li>
+		<li id="menu-item-11562" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11562"><a href="https://dcrazed.com/best-wordpress-bbpress-forum-themes/">Forum</a></li>
+		<li id="menu-item-11561" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11561"><a href="https://dcrazed.com/responsive-wordpress-music-themes/">Music</a></li>
+		<li id="menu-item-11558" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11558"><a href="https://dcrazed.com/best-nonprofit-wordpress-themes/">NonProfit</a></li>
+		<li id="menu-item-11554" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11554"><a href="https://dcrazed.com/responsive-wordpress-onepage-themes/">OnePage</a></li>
+		<li id="menu-item-11551" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11551"><a href="https://dcrazed.com/best-wordpress-review-themes/">Review</a></li>
+		<li id="menu-item-11560" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11560"><a href="https://dcrazed.com/salon-wordpress-themes/">Spa &#038; Hair Salon</a></li>
+		<li id="menu-item-11556" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11556"><a href="https://dcrazed.com/wordpress-technology-themes/">Technology</a></li>
+		<li id="menu-item-11563" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11563"><a href="https://dcrazed.com/wordpress-video-themes/">Video</a></li>
+		<li id="menu-item-11555" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-11555"><a href="https://dcrazed.com/wordpress-woocommerce-themes/">WooCommerce</a></li>
+	</ul>
+</li>
+	<li id="menu-item-11567" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11567"><a href="https://dcrazed.com/category/wordpress/plugins/">Plugins</a></li>
+</ul>
+
+<div class="mega-menu-content">
+<div class="mega-recent-post"><div class="post-thumbnail"><a class="mega-menu-link" href="https://dcrazed.com/vcard-wordpress-themes/" title="40+ Best vCard Resume WordPress Themes"><img src="https://dcrazed.com/wp-content/uploads/2015/05/Profession-590x330.jpg" width="660" height="330" alt="40+ Best vCard Resume WordPress Themes" /><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://dcrazed.com/vcard-wordpress-themes/" title="40+ Best vCard Resume WordPress Themes">40+ Best vCard Resume WordPress Themes</a></h3>
+						
+						</div> <!-- mega-recent-post --><div class="mega-check-also"><ul><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://dcrazed.com/wordpress-subscription-newsletter-plugins/" title="30+ WordPress Newsletter and Email Subscription Plugins"><img src="https://dcrazed.com/wp-content/uploads/2013/09/newsletter-plugin-110x75.jpg" width="110" height="75" alt="30+ WordPress Newsletter and Email Subscription Plugins" /><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://dcrazed.com/wordpress-subscription-newsletter-plugins/" title="30+ WordPress Newsletter and Email Subscription Plugins">30+ WordPress Newsletter and Email Subscription Plugins</a></h3></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://dcrazed.com/best-wordpress-poll-plugins-adding-polls/" title="19 Best WordPress Poll Plugins for Adding Polls"><img src="https://dcrazed.com/wp-content/uploads/2014/03/poll-plugin-110x75.jpg" width="110" height="75" alt="19 Best WordPress Poll Plugins for Adding Polls" /><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://dcrazed.com/best-wordpress-poll-plugins-adding-polls/" title="19 Best WordPress Poll Plugins for Adding Polls">19 Best WordPress Poll Plugins for Adding Polls</a></h3></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://dcrazed.com/best-of-wordpress-architect-themes/" title="25 Best Architecture WordPress Themes 2016"><img src="https://dcrazed.com/wp-content/uploads/2015/12/Bauhaus-110x75.jpg" width="110" height="75" alt="25 Best Architecture WordPress Themes 2016" /><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://dcrazed.com/best-of-wordpress-architect-themes/" title="25 Best Architecture WordPress Themes 2016">25 Best Architecture WordPress Themes 2016</a></h3></li></ul></div> <!-- mega-check-also -->
+</div><!-- .mega-menu-content --> 
+</div><!-- .mega-menu-block --> 
+</li>
+</ul></div>					
+					
+				</div>
+			</nav><!-- .main-nav /-->
+					</header><!-- #header /-->
+	
+		
+	
+	
+	<div id="main-content" class="container">
+			
+		
+	
+	
+		
+	<div class="content">
+	
+				
+		<div xmlns:v="http://rdf.data-vocabulary.org/#"  id="crumbs"><span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" class="crumbs-home" href="https://dcrazed.com">Home</a></span> <span class="delimiter">&raquo;</span> <span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="https://dcrazed.com/category/website-templates/">Website Templates</a></span> <span class="delimiter">&raquo;</span> <span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="https://dcrazed.com/category/website-templates/html5/">HTML5</a></span> <span class="delimiter">&raquo;</span> <span class="current">27 Best Responsive HTML Landing Page Templates</span></div>
+					
+				
+						
+		<article class="post-listing post-3858 post type-post status-publish format-standard has-post-thumbnail hentry category-html5 category-website-templates" id="the-post">
+			
+			<div class="single-post-thumb">
+			<img width="660" height="330" src="https://dcrazed.com/wp-content/uploads/2015/12/rome-660x330.jpg" class="attachment-slider size-slider wp-post-image" alt="Rome - App Landing Page" />		</div>
+	
+		
+
+
+			<div class="post-inner">
+			
+							<h1 class="name post-title entry-title" itemprop="itemReviewed" itemscope itemtype="http://schema.org/Thing"><span itemprop="name">27 Best Responsive HTML Landing Page Templates</span></h1>
+
+						
+<p class="post-meta">
+		
+	<span class="post-meta-author"><i class="fa fa-user"></i><a href="https://dcrazed.com/author/allie/" title="">Allie Kingsley </a></span>
+	
+		
+		
+	<span class="post-cats"><i class="fa fa-folder"></i><a href="https://dcrazed.com/category/website-templates/html5/" rel="category tag">HTML5</a>, <a href="https://dcrazed.com/category/website-templates/" rel="category tag">Website Templates</a></span>
+	
+	<span class="post-comments"><i class="fa fa-comments"></i><a href="https://dcrazed.com/html-landing-page-templates/#comments">17 Comments</a></span>
+</p>
+<div class="clear"></div>
+			
+				<div class="entry">
+					
+					<div class="rioad">
+<script type="text/javascript">
+    google_ad_client = "ca-pub-4397412252424400";
+    google_ad_slot = "6148763633";
+    google_ad_width = 336;
+    google_ad_height = 280;
+</script>
+<!-- DC - article - 336x280 -->
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+					<p>Landing Page Templates will get you started to launch your new product, app or letting users signup, subscribe to something. Eitherways it will be devastating if you have no idea on how to create a html template online to get product sales before launching your product to the public. Having a clear idea of how a template should look for your service, promoting the service is always the critical part of successful campaign where landing page templates play their part as well.  You can choose between free landing page template or premium template both will work if implemented correctly and considered that it match your product.</p>
+<p>Premium HTML5 templates are plenty to choose from unlike free ones and you can get specific ones suitable for your product right away without much trouble. Understand your audience by showing a glimpse on your developing product to keep them hooked and give suggestions etc. It is always better to start the marketing of product when you have an idea of it and you are able to complete it without any issues. A long marketing might be good most of the time for huge success. Please share in your marketing strategies with our community as well. We have found 5 free html landing page templates as well as 20 premium templates with many additional features especially responsive layout. Check our related articles for promoting your online business like</p>
+<ul>
+<li><a title="30 Best Responsive HTML Email Templates" href="https://dcrazed.com/best-responsive-html-email-templates/" rel="bookmark">30 Best Responsive HTML Email Templates</a></li>
+<li><a title="15 Flat Onepage Responsive HTML5 Templates" href="https://dcrazed.com/flat-onepage-responsive-html5-templates/" rel="bookmark">15 Flat Onepage Responsive HTML5 Templates</a></li>
+<li><a title="25 Best Corporate HTML5 Website Templates" href="https://dcrazed.com/corporate-html5-website-templates/" rel="bookmark">25 Best Corporate HTML5 Website Templates</a></li>
+</ul>
+<p>Scroll down to find the free responsive html landing page templates we have introduced in this topic for sales conversion. Mailchimp form is default feature in top class themes introduced here so you don&#8217;t have to go else where to figure out contact forms.</p>
+<h3> Bent &#8211; Free App Landing page</h3>
+<p>Bent is a modern app landing page made by designscrazed for free download. You can build your website in a matter of minutes with this free html template which is responsive in tablet, mobile platforms as well.</p>
+<a href="https://dcrazed.com/html/bent-demo/" class="shortc-button small black ">Demo</a><a href="https://dcrazed.com/download/12649/" class="shortc-button small black ">Download</a>
+<p><img class="aligncenter wp-image-11090" src="https://dcrazed.com/wp-content/uploads/2016/04/bent-app-landing-page.jpg" alt="bent- free app landing page" width="699" height="865" srcset="https://dcrazed.com/wp-content/uploads/2016/04/bent-app-landing-page.jpg 1024w, https://dcrazed.com/wp-content/uploads/2016/04/bent-app-landing-page-170x210.jpg 170w, https://dcrazed.com/wp-content/uploads/2016/04/bent-app-landing-page-768x951.jpg 768w, https://dcrazed.com/wp-content/uploads/2016/04/bent-app-landing-page-827x1024.jpg 827w" sizes="(max-width: 699px) 100vw, 699px" /></p>
+<h3>Rome</h3>
+<p>Rome is a modern app landing page for business promotion with responsive design and full supporting valid html5, css3 code.</p>
+<a href="http://themeforest.net/item/rome-app-landing-page/full_screen_preview/7786818?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Demo</a><a href="http://themeforest.net/item/rome-app-landing-page/7786818?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Source</a>
+<img class="aligncenter size-full wp-image-9730" src="https://dcrazed.com/wp-content/uploads/2015/12/rome.jpg" alt="Rome - App Landing Page" width="700" height="500" srcset="https://dcrazed.com/wp-content/uploads/2015/12/rome.jpg 700w, https://dcrazed.com/wp-content/uploads/2015/12/rome-294x210.jpg 294w" sizes="(max-width: 700px) 100vw, 700px" /></p>
+<h3>Kane</h3>
+<p>Kane is a Responsive Bootstrap 3 App Landing Page for mobile app showcase or sales. A dark and white layout style can be useful for a personal taste of choice. Two amazing layout styles to get a fullscreen image, video background along with mailchimp services makes this theme useful for a serious landing page conversion tool.</p>
+<a href="https://dcrazed.com/go/kane-landing-demo/" class="shortc-button small black ">Demo</a>|<a href="https://dcrazed.com/go/kane-landing/" class="shortc-button small black ">Source</a>
+<p><a href="https://dcrazed.com/wp-content/uploads/2014/01/kane.jpg"><img class="aligncenter size-full wp-image-5276" src="https://dcrazed.com/wp-content/uploads/2014/01/kane.jpg" alt="kane" width="590" height="377" srcset="https://dcrazed.com/wp-content/uploads/2014/01/kane.jpg 590w, https://dcrazed.com/wp-content/uploads/2014/01/kane-300x192.jpg 300w" sizes="(max-width: 590px) 100vw, 590px" /></a></p>
+<h3>Crossway &#8211; Startup Landing Page Template</h3>
+<p>A background parallax scrolling effect is the unique feature integrated with this theme and it is nicely used in the theme without bothering the users who scroll through the page. A responsive feature set with one page scrolling effect is actually completely seo optimized for great organic search traffic resulting in higher sales.</p>
+<a href="https://dcrazed.com/go/crossway-startup-demo/" class="shortc-button small black ">Demo</a>|<a href="https://dcrazed.com/go/crossway-startup/" class="shortc-button small black ">Source</a>
+<p><a href="https://dcrazed.com/wp-content/uploads/2014/01/crossway.jpg"><img class="aligncenter size-full wp-image-5277" src="https://dcrazed.com/wp-content/uploads/2014/01/crossway.jpg" alt="crossway" width="590" height="386" srcset="https://dcrazed.com/wp-content/uploads/2014/01/crossway.jpg 590w, https://dcrazed.com/wp-content/uploads/2014/01/crossway-300x196.jpg 300w" sizes="(max-width: 590px) 100vw, 590px" /></a></p>
+<h3>DotSquare</h3>
+<p>Dotsquare is A html landing page template which is fully fluid responsive and fast loading with valid html, css code. A working contact form with amazing call to action form in the front page of this one page parallax ready template is great for startup business.</p>
+<a href="https://dcrazed.com/go/dotsquare-demo/" class="shortc-button small black ">Demo</a>|<a href="https://dcrazed.com/go/dotsquare/" class="shortc-button small black ">Source</a>
+<p><a href="https://dcrazed.com/wp-content/uploads/2014/01/square.jpg"><img class="aligncenter size-full wp-image-5282" src="https://dcrazed.com/wp-content/uploads/2014/01/square.jpg" alt="dotsquare responsive landing page" width="590" height="662" srcset="https://dcrazed.com/wp-content/uploads/2014/01/square.jpg 590w, https://dcrazed.com/wp-content/uploads/2014/01/square-187x210.jpg 187w" sizes="(max-width: 590px) 100vw, 590px" /></a></p>
+<h3>Hype &#8211; App Landing Page</h3>
+<p>Modern, responsive, retina ready, landing page for mobile apps. You can choose from 8 color variants. Options for image, video and solid color background.</p>
+<a href="http://themeforest.net/item/hype-app-landing-page/full_screen_preview/6671565?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Demo</a>| <a href="http://themeforest.net/item/hype-app-landing-page/6671565?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Download</a>
+<p><img class="aligncenter size-full wp-image-3864" src="https://dcrazed.com/wp-content/uploads/2014/01/hype.jpg" alt="Hype - App Landing Page" width="590" height="300" srcset="https://dcrazed.com/wp-content/uploads/2014/01/hype.jpg 590w, https://dcrazed.com/wp-content/uploads/2014/01/hype-300x153.jpg 300w" sizes="(max-width: 590px) 100vw, 590px" /></p>
+<h3>Gotte Multipurpose Landing Page</h3>
+<p>Gotte is multi purposes landing page template coming with flat style,3 index variant and 6 color option, designed for many kind marketing website. This template built with twitter bootstrap3 and PHP script included for working contact form and download request form.</p>
+<a href="http://themeforest.net/item/gotte-multipurpose-landing-page/full_screen_preview/6582859?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Demo</a>| <a href="http://themeforest.net/item/gotte-multipurpose-landing-page/6582859?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Download</a>
+<p><img class="aligncenter size-full wp-image-3865" src="https://dcrazed.com/wp-content/uploads/2014/01/gotte.jpg" alt="Gotte Multipurpose Landing Page" width="590" height="300" srcset="https://dcrazed.com/wp-content/uploads/2014/01/gotte.jpg 590w, https://dcrazed.com/wp-content/uploads/2014/01/gotte-300x153.jpg 300w" sizes="(max-width: 590px) 100vw, 590px" /></p>
+<h3>Slander &#8211; Responsive Bootstrap HTML5 Landing Page</h3>
+<p>Slander – A perfect start up template for companies, individuals and professionals. This template was designed with Responsive design, Bootstrap, HTML5 / CSS3 , Responsive slider, Tabbed slider, Newsletter subscribe form and much more..</p>
+<a href="http://themeforest.net/item/slander-responsive-bootstrap-html5-landing-page/full_screen_preview/6573484?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Demo</a>| <a href="http://themeforest.net/item/slander-responsive-bootstrap-html5-landing-page/6573484?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Download</a>
+<p><img class="aligncenter size-full wp-image-3866" src="https://dcrazed.com/wp-content/uploads/2014/01/Slander.jpg" alt="Slander - Responsive Bootstrap HTML5 Landing Page" width="590" height="300" srcset="https://dcrazed.com/wp-content/uploads/2014/01/Slander.jpg 590w, https://dcrazed.com/wp-content/uploads/2014/01/Slander-300x153.jpg 300w" sizes="(max-width: 590px) 100vw, 590px" /></p>
+<h3>FeedApp &#8211; Landing Page Template</h3>
+<p>FeedApp is a clean flat landing page for App or Service &amp; Business. This template built with fully responsive flat design, Bootstrap 3.0 system, minimalize structure and a slew of features.</p>
+<a href="http://themeforest.net/item/feedapp-landing-page-template/full_screen_preview/6570384?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Demo</a>| <a href="http://themeforest.net/item/feedapp-landing-page-template/6570384?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Download</a>
+<p><img class="aligncenter size-full wp-image-3867" src="https://dcrazed.com/wp-content/uploads/2014/01/feed-page.jpg" alt="feed page" width="590" height="384" srcset="https://dcrazed.com/wp-content/uploads/2014/01/feed-page.jpg 590w, https://dcrazed.com/wp-content/uploads/2014/01/feed-page-300x195.jpg 300w" sizes="(max-width: 590px) 100vw, 590px" /></p>
+<h3>Appster &#8211; Ultimate Clean App Landing Page Template</h3>
+<p>Appster is a responsive app landing page template to advertise and sell your application featuring a sleek clean and minimal design. Appster was crafted using the latest html5 / css3 techniques and built to include every possible element what a marketing app landing page should ever contain!</p>
+<a href="http://themeforest.net/item/appster-ultimate-clean-app-landing-page-template/full_screen_preview/6564930?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Demo</a>| <a href="http://themeforest.net/item/appster-ultimate-clean-app-landing-page-template/6564930?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Download</a>
+<p><img class="aligncenter size-full wp-image-3868" src="https://dcrazed.com/wp-content/uploads/2014/01/Appster.jpg" alt="Ultimate Clean App Landing Page Template" width="590" height="300" srcset="https://dcrazed.com/wp-content/uploads/2014/01/Appster.jpg 590w, https://dcrazed.com/wp-content/uploads/2014/01/Appster-300x153.jpg 300w" sizes="(max-width: 590px) 100vw, 590px" /></p>
+<h3>Cloud &#8211; An Easy To Use App Landing Page</h3>
+<p>It’s a awesome Clean, Minimal and Elegant HTML5 / CSS3 Landing Page with great feature ! This template has been designed for presenting a <a href="https://dcrazed.com/free-website-under-construction-templates/">Coming Soon</a> Website or would be perfect for an App Page / Showcase.</p>
+<a href="http://themeforest.net/item/cloud-an-easy-to-use-app-landing-page/full_screen_preview/6561736?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Demo</a>| <a href="http://themeforest.net/item/cloud-an-easy-to-use-app-landing-page/6561736?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Download</a>
+<p><img class="aligncenter size-full wp-image-3869" src="https://dcrazed.com/wp-content/uploads/2014/01/Cloud.jpg" alt="An Easy To Use App Landing Page" width="590" height="300" srcset="https://dcrazed.com/wp-content/uploads/2014/01/Cloud.jpg 590w, https://dcrazed.com/wp-content/uploads/2014/01/Cloud-300x153.jpg 300w" sizes="(max-width: 590px) 100vw, 590px" /></p>
+<h3>OnEvent &#8211; Special Event Landing Page</h3>
+<p>OnEvent is a responsive landing page template, designed for special events. You can display all the necessary information regarding your event using this template’s available sections. You can add a photogallery, commerical video, event schedule and invited execuive guest list.</p>
+<a href="http://themeforest.net/item/onevent-special-event-landing-page/full_screen_preview/6558300?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Demo</a>| <a href="http://themeforest.net/item/onevent-special-event-landing-page/6558300?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Download</a>
+<p><img class="aligncenter size-full wp-image-3872" src="https://dcrazed.com/wp-content/uploads/2014/01/OnEvent-Special-Event.jpg" alt="OnEvent - Special Event" width="590" height="361" srcset="https://dcrazed.com/wp-content/uploads/2014/01/OnEvent-Special-Event.jpg 590w, https://dcrazed.com/wp-content/uploads/2014/01/OnEvent-Special-Event-300x184.jpg 300w" sizes="(max-width: 590px) 100vw, 590px" /></p>
+<h3>Appreative Responsive Landing Page Template</h3>
+<p>Appreative is designed for an app landing pages with its brief info. It can be used for any types of apps to market it. Appreative uses responsive layout which can be viewed on devices such as smart phones, tablets, laptops and desktops.</p>
+<a href="http://themeforest.net/item/appreative-responsive-landing-page-template/full_screen_preview/6062690?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Demo</a>| <a href="http://themeforest.net/item/appreative-responsive-landing-page-template/6062690?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Download</a>
+<p><img class="aligncenter size-full wp-image-3870" src="https://dcrazed.com/wp-content/uploads/2014/01/Appreative.jpg" alt="Appreative" width="590" height="300" srcset="https://dcrazed.com/wp-content/uploads/2014/01/Appreative.jpg 590w, https://dcrazed.com/wp-content/uploads/2014/01/Appreative-300x153.jpg 300w" sizes="(max-width: 590px) 100vw, 590px" /></p>
+<h3>SaptaApp Landing Page Template</h3>
+<p>You can change the main site/template color by changing one hex code and the associative elements gets a new color. So its very easy to work with. Detailed documentation is also provided for your reference.</p>
+<a href="http://themeforest.net/theme_previews/4262811-saptaapp-landing-page-template?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Demo</a>| <a href="http://themeforest.net/item/saptaapp-landing-page-template/4262811?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Download</a>
+<p><img class="aligncenter size-full wp-image-3871" src="https://dcrazed.com/wp-content/uploads/2014/01/SaptaApp-Landing-Page-Template.jpg" alt="SaptaApp Landing Page Template" width="590" height="300" srcset="https://dcrazed.com/wp-content/uploads/2014/01/SaptaApp-Landing-Page-Template.jpg 590w, https://dcrazed.com/wp-content/uploads/2014/01/SaptaApp-Landing-Page-Template-300x153.jpg 300w" sizes="(max-width: 590px) 100vw, 590px" /></p>
+<h3>Entry &#8211; Startup Landing Page</h3>
+<p>Entry – is a quick and easy constructor of landing pages. Using it you can create any landing you want just in a few minutes. And you can make it very easy: by changing block’s positions, changing colors and deleting unneeded blocks. This constructor suggests 18 blocks for any landing needs.</p>
+<a href="http://themeforest.net/item/entry-startup-landing-page/full_screen_preview/6549973?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Demo</a>| <a href="http://themeforest.net/item/entry-startup-landing-page/6549973?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Download</a>
+<p><img class="aligncenter size-full wp-image-3873" src="https://dcrazed.com/wp-content/uploads/2014/01/Startup-Landing-Page.jpg" alt="Startup Landing Page" width="590" height="300" srcset="https://dcrazed.com/wp-content/uploads/2014/01/Startup-Landing-Page.jpg 590w, https://dcrazed.com/wp-content/uploads/2014/01/Startup-Landing-Page-300x153.jpg 300w" sizes="(max-width: 590px) 100vw, 590px" /></p>
+<h3>Stylio &#8211; Responsive HTML5 App Landing Page</h3>
+<p>Stylio is a one page app template that can be used as a landing page; it’s fully responsive&amp;retina ready design tested on all major handheld devices. Main highlight of this template is a layered slider with screenshots, “reveal” blocks and mobile fallback.</p>
+<a href="http://themeforest.net/item/stylio-responsive-html5-app-landing-page/full_screen_preview/6535447?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Demo</a>| <a href="http://themeforest.net/item/stylio-responsive-html5-app-landing-page/6535447?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Download</a>
+<p><img class="aligncenter size-full wp-image-3874" src="https://dcrazed.com/wp-content/uploads/2014/01/Stylio.jpg" alt="Stylio" width="590" height="300" srcset="https://dcrazed.com/wp-content/uploads/2014/01/Stylio.jpg 590w, https://dcrazed.com/wp-content/uploads/2014/01/Stylio-300x153.jpg 300w" sizes="(max-width: 590px) 100vw, 590px" /></p>
+<h3>NRG &#8211; Responsive Landing Page</h3>
+<p>NRG is a one page solution for a growing start-up or a small studio. It contains everything you might want and need for a good presence on the web. The structure is very lightweight, all the code is 100% valid according to the latest standards, all the images are compressed the best way possible.</p>
+<a href="http://themeforest.net/item/nrg-responsive-landing-page/full_screen_preview/6533817?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Demo</a>| <a href="http://themeforest.net/item/nrg-responsive-landing-page/6533817?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Download</a>
+<p><img class="aligncenter size-full wp-image-3875" src="https://dcrazed.com/wp-content/uploads/2014/01/NRG-Responsive-Landing-Page.jpg" alt="NRG - Responsive Landing Page" width="590" height="300" srcset="https://dcrazed.com/wp-content/uploads/2014/01/NRG-Responsive-Landing-Page.jpg 590w, https://dcrazed.com/wp-content/uploads/2014/01/NRG-Responsive-Landing-Page-300x153.jpg 300w" sizes="(max-width: 590px) 100vw, 590px" /></p>
+<h3>EventLand Landingpage</h3>
+<p>EventLand Landing Page is a single fully responsive HTML5 theme. This Theme is the perfect showcase for your Event, Conference, Meeting or Workshop. It is designed with Newsletter integration, working Register Form, One Page Navigation, Font Awesome Icon Font, Google Map, Slider, Program Tabs etc.</p>
+<a href="http://themeforest.net/item/eventland-landingpage/full_screen_preview/6519113?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Demo</a>| <a href="http://themeforest.net/item/eventland-landingpage/6519113?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Download</a>
+<p><img class="aligncenter size-full wp-image-3876" src="https://dcrazed.com/wp-content/uploads/2014/01/EventLand-Landingpage.jpg" alt="EventLand Landingpage" width="590" height="300" srcset="https://dcrazed.com/wp-content/uploads/2014/01/EventLand-Landingpage.jpg 590w, https://dcrazed.com/wp-content/uploads/2014/01/EventLand-Landingpage-300x153.jpg 300w" sizes="(max-width: 590px) 100vw, 590px" /></p>
+<h3>Promo &#8211; Landing Page Template</h3>
+<p>Promo is a clean flat landing page for business template. This template built with fully responsive flat design, Bootstrap 3.0 system, minimalize structure and a slew of features.</p>
+<a href="http://themeforest.net/item/promo-landing-page-template/full_screen_preview/6397598?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Demo</a>| <a href="http://themeforest.net/item/promo-landing-page-template/6397598?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Download</a>
+<p><img class="aligncenter size-full wp-image-3877" src="https://dcrazed.com/wp-content/uploads/2014/01/Promo.jpg" alt="Promo" width="590" height="381" srcset="https://dcrazed.com/wp-content/uploads/2014/01/Promo.jpg 590w, https://dcrazed.com/wp-content/uploads/2014/01/Promo-300x194.jpg 300w" sizes="(max-width: 590px) 100vw, 590px" /></p>
+<h3>Off the Shelf &#8211; Responsive E-Book Landing Page</h3>
+<p>Off the Shelf has been designed for e-book authors and marketers alike and combines everything you need to quickly get your product noticed!</p>
+<a href="http://themeforest.net/item/off-the-shelf-responsive-ebook-landing-page/full_screen_preview/4485934?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Demo</a>| <a href="http://themeforest.net/item/off-the-shelf-responsive-ebook-landing-page/4485934?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Download</a>
+<p><img class="aligncenter size-full wp-image-3878" src="https://dcrazed.com/wp-content/uploads/2014/01/Off-the-Shelf.jpg" alt="Off the Shelf - Responsive E-Book Landing Page" width="590" height="300" srcset="https://dcrazed.com/wp-content/uploads/2014/01/Off-the-Shelf.jpg 590w, https://dcrazed.com/wp-content/uploads/2014/01/Off-the-Shelf-300x153.jpg 300w" sizes="(max-width: 590px) 100vw, 590px" /></p>
+<h3>Neue &#8211; App Landing Page</h3>
+<p>Neue is the newest app landing page out there. It is equiped with amazing features and comes with even more amazing support.</p>
+<a href="http://themeforest.net/item/neue-app-landing-page/full_screen_preview/5142303?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Demo</a>| <a href="http://themeforest.net/item/neue-app-landing-page/5142303?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Download</a>
+<p><img class="aligncenter size-full wp-image-3879" src="https://dcrazed.com/wp-content/uploads/2014/01/Neue.-Stunning-App-Showcase..jpg" alt="Neue. Stunning App Showcase." width="590" height="379" srcset="https://dcrazed.com/wp-content/uploads/2014/01/Neue.-Stunning-App-Showcase..jpg 590w, https://dcrazed.com/wp-content/uploads/2014/01/Neue.-Stunning-App-Showcase.-300x193.jpg 300w" sizes="(max-width: 590px) 100vw, 590px" /></p>
+<h3>Rise Landing Page</h3>
+<p>Rise Landing Page is fully responsive HTML5 and CSS3 landing page. This is a great solution to represent your application on mobile devices, on tablets and on laptops. Rise Landing Page supports Font Awesome iconic fonts, has custom made lightbox and slider.</p>
+<a href="http://themeforest.net/item/rise-landing-page/full_screen_preview/55133160?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Demo</a>| <a href="http://themeforest.net/item/rise-landing-page/5513316?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Download</a>
+<p><img class="aligncenter size-full wp-image-3880" src="https://dcrazed.com/wp-content/uploads/2014/01/rise.jpg" alt="rise" width="590" height="2168" srcset="https://dcrazed.com/wp-content/uploads/2014/01/rise.jpg 590w, https://dcrazed.com/wp-content/uploads/2014/01/rise-57x210.jpg 57w, https://dcrazed.com/wp-content/uploads/2014/01/rise-279x1024.jpg 279w" sizes="(max-width: 590px) 100vw, 590px" /></p>
+<h3>EduTime &#8211; Online Courses &amp; Education Landing</h3>
+<p>EduTime Responsive landing page for education and online courses marketing.</p>
+<a href="http://themeforest.net/item/edutime-online-courses-education-landing/full_screen_preview/4683843?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Demo</a>| <a href="http://themeforest.net/item/edutime-online-courses-education-landing/4683843?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Download</a>
+<p><img class="aligncenter size-full wp-image-3881" src="https://dcrazed.com/wp-content/uploads/2014/01/EduTime-Online-Courses-Education-Landing.jpg" alt="EduTime - Online Courses &amp; Education Landing" width="590" height="300" srcset="https://dcrazed.com/wp-content/uploads/2014/01/EduTime-Online-Courses-Education-Landing.jpg 590w, https://dcrazed.com/wp-content/uploads/2014/01/EduTime-Online-Courses-Education-Landing-300x153.jpg 300w" sizes="(max-width: 590px) 100vw, 590px" /></p>
+<h3>Plaza &#8211; Education &#8211; Hotel &#8211; Dating Landing</h3>
+<p>Everything starting from hotels restaurants, education, plaza all in one option to get multiple landing page templates in one set.</p>
+<a href="http://themeforest.net/item/plaza-education-hotel-dating-landing/full_screen_preview/5054685?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Demo</a>| <a href="http://themeforest.net/item/plaza-education-hotel-dating-landing/5054685?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Download</a>
+<p><img class="aligncenter size-full wp-image-3882" src="https://dcrazed.com/wp-content/uploads/2014/01/Plaza-Education-Hotel-Dating-Landing.jpg" alt="Plaza - Education - Hotel - Dating Landing" width="590" height="300" srcset="https://dcrazed.com/wp-content/uploads/2014/01/Plaza-Education-Hotel-Dating-Landing.jpg 590w, https://dcrazed.com/wp-content/uploads/2014/01/Plaza-Education-Hotel-Dating-Landing-300x153.jpg 300w" sizes="(max-width: 590px) 100vw, 590px" /></p>
+<h3>Katemi &#8211; Clean Product and App Landing Page</h3>
+<p>Katemi is a clean landing page template for your product/service and app. Katemi Landing Page v2.0 has been built with Bootstrap 3.0.3 and have a fully responsive layout. This template also provide mobile first and SEO friendly code which will make search engine loves your site!</p>
+<a href="http://themeforest.net/item/katemi-clean-product-and-app-landing-page/full_screen_preview/5792983?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Demo</a>| <a href="http://themeforest.net/item/katemi-clean-product-and-app-landing-page/5792983?ref=hdalive" class="shortc-button small black  external" rel="nofollow">Download</a>
+<p><img class="aligncenter size-full wp-image-3883" src="https://dcrazed.com/wp-content/uploads/2014/01/Katemi.jpg" alt="Clean Product and App Landing Page" width="590" height="300" srcset="https://dcrazed.com/wp-content/uploads/2014/01/Katemi.jpg 590w, https://dcrazed.com/wp-content/uploads/2014/01/Katemi-300x153.jpg 300w" sizes="(max-width: 590px) 100vw, 590px" /></p>
+<div class="clear"></div><div style="margin-top:10px; margin-bottom:10px;" class="divider divider-normal"></div>
+<h3 class="post-title margin-40 wow fadeIn animated" data-wow-delay="0.2s">Snow &#8211; A Free Bootstrap Landing Page Theme</h3>
+<p>A clean bootstrap template for showcasing latest products, services who have sales copy format in mind but unable to design a template.  This free landing page template  will set things to speed up your marketing campaign to sell the services.</p>
+<a href="http://blog.themearmada.com/demos/snow/" class="shortc-button small black  external" rel="nofollow">Demo</a> | <a href="http://news.visualsoldiers.com/snow-a-free-bootstrap-landing-page-theme/" class="shortc-button small black  external" rel="nofollow">Download</a>
+<p>&nbsp;</p>
+<h3>Landy &#8211; Free Landing Page Template</h3>
+<p>Landy is a simple and clean responsive landing page template great for advertising or selling your app, software, retail product or service. It is build using Bootstrap and uses only free Google fonts. The code is well commented for easy customization like similar free Landing Page HTML Template.</p>
+<a href="http://webdesignerlab.com/demos/landy/index.html" class="shortc-button small black  external" rel="nofollow">Demo</a>| <a href="http://webdesignerlab.com/templates/free-landing-page-template-2" class="shortc-button small black  external" rel="nofollow">Download</a>
+<p><img class="aligncenter size-full wp-image-3860" src="https://dcrazed.com/wp-content/uploads/2014/01/Landy-simple-landing-page.jpg" alt="Landy, simple landing page" width="590" height="978" srcset="https://dcrazed.com/wp-content/uploads/2014/01/Landy-simple-landing-page.jpg 590w, https://dcrazed.com/wp-content/uploads/2014/01/Landy-simple-landing-page-127x210.jpg 127w" sizes="(max-width: 590px) 100vw, 590px" /></p>
+<h3>HTML Business App &#8211; Free Landing Page Template<small><br />
+</small></h3>
+<p>BusinessApp is a free HTML5 and CSS3 based landing page web template for showcasing Android and iOS applications.</p>
+<a href="https://github.com/Gigacore/App-Landing-Page/archive/master.zip" class="shortc-button small black  external" rel="nofollow">Download</a>
+<p><img class="aligncenter size-full wp-image-3861" src="https://dcrazed.com/wp-content/uploads/2014/01/business-app-landing-page.jpg" alt="A free landing page for Android and iOS apps." width="590" height="741" srcset="https://dcrazed.com/wp-content/uploads/2014/01/business-app-landing-page.jpg 590w, https://dcrazed.com/wp-content/uploads/2014/01/business-app-landing-page-167x210.jpg 167w" sizes="(max-width: 590px) 100vw, 590px" /></p>
+<h4>Legend: One Page Free Responsive landing Template</h4>
+<p>This is our second free responsive bootstrap template. Legend is multi-purpose responsive one page template built on Twitter Bootstrap. You can use this template as a landing page, online portfolio for creative folks or even as a business theme.</p>
+<a href="http://dzyngiri.com/demo/legend/" class="shortc-button small black  external" rel="nofollow">Demo</a>| <a href="http://www.dzyngiri.com/legend-free-responsive-one-page-template/" class="shortc-button small black  external" rel="nofollow">Download</a>
+<p><img class="aligncenter size-full wp-image-3862" src="https://dcrazed.com/wp-content/uploads/2014/01/Legend-One-Page-Bootstrap-Template.jpg" alt="Legend - One Page Bootstrap Template" width="590" height="360" srcset="https://dcrazed.com/wp-content/uploads/2014/01/Legend-One-Page-Bootstrap-Template.jpg 590w, https://dcrazed.com/wp-content/uploads/2014/01/Legend-One-Page-Bootstrap-Template-300x183.jpg 300w" sizes="(max-width: 590px) 100vw, 590px" /></p>
+<h3>Free Retina Ready Responsive App Landing Page Website Template</h3>
+<p>In online marketing, a landing page (sometimes known as a lead capture page or a lander) is a single page that appears in response to clicking on a search engine optimized search result or an online advertisement. The landing page will usually display directed sales copy that is a logical extension of an app or software advertisement, search result or link.</p>
+<a href="http://www.egrappler.com/responsive-app-landing-page/app-landing-page.html" class="shortc-button small black  external" rel="nofollow">Demo</a>| <a href="http://www.egrappler.com/retina-ready-responsive-app-landing-page-website-template-app-landing/" class="shortc-button small black  external" rel="nofollow">Download</a>
+<p><img class="aligncenter size-full wp-image-3863" src="https://dcrazed.com/wp-content/uploads/2014/01/Responsive-Landing-Page-For-iPhone-Android-App.jpg" alt="Responsive Landing Page For iPhone Android App" width="590" height="1665" srcset="https://dcrazed.com/wp-content/uploads/2014/01/Responsive-Landing-Page-For-iPhone-Android-App.jpg 590w, https://dcrazed.com/wp-content/uploads/2014/01/Responsive-Landing-Page-For-iPhone-Android-App-74x210.jpg 74w, https://dcrazed.com/wp-content/uploads/2014/01/Responsive-Landing-Page-For-iPhone-Android-App-363x1024.jpg 363w" sizes="(max-width: 590px) 100vw, 590px" /></p>
+										
+									</div><!-- .entry /-->
+								<span style="display:none" class="updated">2016-08-24</span>
+								<div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://plus.google.com/+AllieKingsley/posts?rel=author">+Allie Kingsley</a></strong></div>
+								
+				<div class="share-post">
+	<span class="share-text">Share</span>
+	
+		<ul class="flat-social">	
+			<li><a href="http://www.facebook.com/sharer.php?u=https://dcrazed.com/html-landing-page-templates/" class="social-facebook" rel="external" target="_blank"><i class="fa fa-facebook"></i> <span>Facebook</span></a></li>
+		
+			<li><a href="https://twitter.com/intent/tweet?text=27+Best+Responsive+HTML+Landing+Page+Templates via %40designscrazed&url=https://dcrazed.com/html-landing-page-templates/" class="social-twitter" rel="external" target="_blank"><i class="fa fa-twitter"></i> <span>Twitter</span></a></li>
+				<li><a href="https://plusone.google.com/_/+1/confirm?hl=en&amp;url=https://dcrazed.com/html-landing-page-templates/&amp;name=27+Best+Responsive+HTML+Landing+Page+Templates" class="social-google-plus" rel="external" target="_blank"><i class="fa fa-google-plus"></i> <span>Google +</span></a></li>
+				<li><a href="http://www.stumbleupon.com/submit?url=https://dcrazed.com/html-landing-page-templates/&title=27+Best+Responsive+HTML+Landing+Page+Templates" class="social-stumble" rel="external" target="_blank"><i class="fa fa-stumbleupon"></i> <span>Stumbleupon</span></a></li>
+				<li><a href="http://www.linkedin.com/shareArticle?mini=true&url=https://dcrazed.com/html-landing-page-templates/&title=27+Best+Responsive+HTML+Landing+Page+Templates" class="social-linkedin" rel="external" target="_blank"><i class="fa fa-linkedin"></i> <span>LinkedIn</span></a></li>
+				<li><a href="http://pinterest.com/pin/create/button/?url=https://dcrazed.com/html-landing-page-templates/&amp;description=27+Best+Responsive+HTML+Landing+Page+Templates&amp;media=https://dcrazed.com/wp-content/uploads/2015/12/rome-660x330.jpg" class="social-pinterest" rel="external" target="_blank"><i class="fa fa-pinterest"></i> <span>Pinterest</span></a></li>
+		</ul>
+		<div class="clear"></div>
+</div> <!-- .share-post -->				<div class="clear"></div>
+			</div><!-- .post-inner -->
+		</article><!-- .post-listing -->
+		
+		
+				
+				
+		<section id="author-box">
+			<div class="block-head">
+				<h3>About Allie Kingsley </h3><div class="stripe-line"></div>
+			</div>
+			<div class="post-listing">
+				<div class="author-bio">
+	<div class="author-avatar">
+		<img alt='' src='https://secure.gravatar.com/avatar/fcbd82c5e73aa874e2f9bd53a0f401dd?s=90&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/fcbd82c5e73aa874e2f9bd53a0f401dd?s=180&amp;d=mm&amp;r=g 2x' class='avatar avatar-90 photo' height='90' width='90' />	</div><!-- #author-avatar -->
+			<div class="author-description">
+						Allie Kingsley is a social media manager for designscrazed. She is crazy about new gadgets and up to date with latest technology trends. Use comments to notify any issues you are facing.		</div><!-- #author-description -->
+			<div class="author-social flat-social">
+									<a class="social-facebook" href="https://www.facebook.com/pages/Designscrazed/547192772015637"><i class="fa fa-facebook"></i></a>
+									<a class="social-twitter" href="http://twitter.com/designscrazed"><i class="fa fa-twitter"></i><span> @designscrazed</span></a>
+									<a class="social-google-plus" href="https://plus.google.com/+AllieKingsley/posts"><i class="fa fa-google-plus"></i></a>
+																							</div>
+		<div class="clear"></div>
+</div>
+				</div>
+		</section><!-- #author-box -->
+				
+		
+						
+		<div class="post-navigation">
+			<div class="post-previous"><a href="https://dcrazed.com/free-web-browser-mockups-psd/" rel="prev"><span>Previous</span> 25 Free Web Browser Mockups  | PSD, Vector</a></div>
+			<div class="post-next"><a href="https://dcrazed.com/creative-brochure-designs-for-restaurant/" rel="next"><span>Next</span> A Collection of 30 Creative Brochure Designs for Restaurant</a></div>
+		</div><!-- .post-navigation -->
+			
+			<section id="related_posts">
+		<div class="block-head">
+			<h4>Related Articles</h4><div class="stripe-line"></div>
+		</div>
+		<div class="post-listing">
+						<div class="related-item">
+							
+				<div class="post-thumbnail">
+					<a href="https://dcrazed.com/html5-church-website-templates/">
+						<img width="310" height="165" src="https://dcrazed.com/wp-content/uploads/2015/12/CharityFund-310x165.jpg" class="attachment-tie-medium size-tie-medium wp-post-image" alt="Charity &amp; Crowdfunding HTML Template" />						<span class="fa overlay-icon"></span>
+					</a>
+				</div><!-- post-thumbnail /-->
+							
+				<h4><a href="https://dcrazed.com/html5-church-website-templates/" rel="bookmark">26 Best HTML5 Church and Charity Website Templates</a></h4>
+				<p class="post-meta"></p>
+			</div>
+						<div class="related-item">
+							
+				<div class="post-thumbnail">
+					<a href="https://dcrazed.com/best-responsive-html-email-templates/">
+						<img width="310" height="165" src="https://dcrazed.com/wp-content/uploads/2016/02/free-email-newsletter-template-310x165.jpg" class="attachment-tie-medium size-tie-medium wp-post-image" alt="Free Email Newsletter Templates" />						<span class="fa overlay-icon"></span>
+					</a>
+				</div><!-- post-thumbnail /-->
+							
+				<h4><a href="https://dcrazed.com/best-responsive-html-email-templates/" rel="bookmark">35 Best Responsive HTML Email Templates (Free, Premium)</a></h4>
+				<p class="post-meta"></p>
+			</div>
+						<div class="related-item">
+							
+				<div class="post-thumbnail">
+					<a href="https://dcrazed.com/html5-magazine-website-templates/">
+						<img width="310" height="165" src="https://dcrazed.com/wp-content/uploads/2016/02/burstfly-html-310x165.jpg" class="attachment-tie-medium size-tie-medium wp-post-image" alt="Burstfly - Free Grid HTML5 Template" />						<span class="fa overlay-icon"></span>
+					</a>
+				</div><!-- post-thumbnail /-->
+							
+				<h4><a href="https://dcrazed.com/html5-magazine-website-templates/" rel="bookmark">28 Responsive HTML5 Magazine Website Templates</a></h4>
+				<p class="post-meta"></p>
+			</div>
+						<div class="related-item">
+							
+				<div class="post-thumbnail">
+					<a href="https://dcrazed.com/corporate-html5-website-templates/">
+						<img width="310" height="165" src="https://dcrazed.com/wp-content/uploads/2015/08/free-corporate-template-310x165.jpg" class="attachment-tie-medium size-tie-medium wp-post-image" alt="free corporate template with html5 css3" />						<span class="fa overlay-icon"></span>
+					</a>
+				</div><!-- post-thumbnail /-->
+							
+				<h4><a href="https://dcrazed.com/corporate-html5-website-templates/" rel="bookmark">27 Best Corporate HTML5 Website Templates</a></h4>
+				<p class="post-meta"></p>
+			</div>
+						<div class="related-item">
+							
+				<div class="post-thumbnail">
+					<a href="https://dcrazed.com/the-best-html-photography-website-templates/">
+						<img width="310" height="165" src="https://dcrazed.com/wp-content/uploads/2015/12/lydia-310x165.jpg" class="attachment-tie-medium size-tie-medium wp-post-image" alt="Lydia - Photography &amp; Magazine Site Template" />						<span class="fa overlay-icon"></span>
+					</a>
+				</div><!-- post-thumbnail /-->
+							
+				<h4><a href="https://dcrazed.com/the-best-html-photography-website-templates/" rel="bookmark">20+ Best HTML5 Photography Website Templates in 2017</a></h4>
+				<p class="post-meta"></p>
+			</div>
+						<div class="related-item">
+							
+				<div class="post-thumbnail">
+					<a href="https://dcrazed.com/free-responsive-html5-css3-templates/">
+						<img width="310" height="165" src="https://dcrazed.com/wp-content/uploads/2016/07/space-free-agency-template-310x165.jpg" class="attachment-tie-medium size-tie-medium wp-post-image" alt="space -free html5 css3 template" />						<span class="fa overlay-icon"></span>
+					</a>
+				</div><!-- post-thumbnail /-->
+							
+				<h4><a href="https://dcrazed.com/free-responsive-html5-css3-templates/" rel="bookmark">66 Free Responsive HTML5 CSS3 Website Templates 2017</a></h4>
+				<p class="post-meta"></p>
+			</div>
+						<div class="related-item">
+							
+				<div class="post-thumbnail">
+					<a href="https://dcrazed.com/best-ghost-themes/">
+						<img width="310" height="165" src="https://dcrazed.com/wp-content/uploads/2016/02/ecko-themes-310x165.jpg" class="attachment-tie-medium size-tie-medium wp-post-image" alt="Cedar - Responsive Ghost Theme" />						<span class="fa overlay-icon"></span>
+					</a>
+				</div><!-- post-thumbnail /-->
+							
+				<h4><a href="https://dcrazed.com/best-ghost-themes/" rel="bookmark">30+ Best Ghost Themes 2017 in Free &#038; Premium</a></h4>
+				<p class="post-meta"></p>
+			</div>
+						<div class="related-item">
+							
+				<div class="post-thumbnail">
+					<a href="https://dcrazed.com/best-free-tumblr-themes/">
+						<img width="310" height="165" src="https://dcrazed.com/wp-content/uploads/2016/07/sugar-portfolio-tumblr-blog-310x165.jpg" class="attachment-tie-medium size-tie-medium wp-post-image" alt="sugar portfolio - free tumblr themes" />						<span class="fa overlay-icon"></span>
+					</a>
+				</div><!-- post-thumbnail /-->
+							
+				<h4><a href="https://dcrazed.com/best-free-tumblr-themes/" rel="bookmark">50+ Best Free Tumblr Themes 2017 for Clean Portfolio, Gags &#038; more</a></h4>
+				<p class="post-meta"></p>
+			</div>
+						<div class="related-item">
+							
+				<div class="post-thumbnail">
+					<a href="https://dcrazed.com/html-css-pricing-table-templates/">
+						<img width="310" height="165" src="https://dcrazed.com/wp-content/uploads/2015/12/simple-pricing-tables-310x165.jpg" class="attachment-tie-medium size-tie-medium wp-post-image" alt="simple pricing tables with css, html" />						<span class="fa overlay-icon"></span>
+					</a>
+				</div><!-- post-thumbnail /-->
+							
+				<h4><a href="https://dcrazed.com/html-css-pricing-table-templates/" rel="bookmark">30 Best HTML CSS Pricing Table Templates, Tutorials</a></h4>
+				<p class="post-meta"></p>
+			</div>
+						<div class="clear"></div>
+		</div>
+	</section>
+			
+			
+	<section id="check-also-box" class="post-listing check-also-left">
+		<a href="#" id="check-also-close"><i class="fa fa-close"></i></a>
+
+		<div class="block-head">
+			<h3>Check Also</h3>
+		</div>
+
+				<div class="check-also-post">
+						
+			<div class="post-thumbnail">
+				<a href="https://dcrazed.com/business-website-templates/">
+					<img width="310" height="165" src="https://dcrazed.com/wp-content/uploads/2015/11/butterfly-310x165.jpg" class="attachment-tie-medium size-tie-medium wp-post-image" alt="butterfly - business template for free" />					<span class="fa overlay-icon"></span>
+				</a>
+			</div><!-- post-thumbnail /-->
+						
+			<h2 class="post-title"><a href="https://dcrazed.com/business-website-templates/" rel="bookmark">22 Free HTML5/CSS3 Business Website Templates</a></h2>
+			<p>Need for free HTML5, CSS3 business templates are very high as many want to build &hellip;</p>
+		</div>
+			</section>
+			
+			
+				
+		
+				
+<div id="comments">
+
+	
+	<div id="comments-box">
+		<div class="block-head">
+			<h3 id="comments-title">17 comments </h3><div class="stripe-line"></div>
+		</div>
+		<div class="post-listing">
+
+			
+					
+				
+			<ol class="commentlist">	<li id="comment-4183">
+		<div  class="comment even thread-even depth-1 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='https://secure.gravatar.com/avatar/8727218063dc54200062af9f932cf73c?s=65&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/8727218063dc54200062af9f932cf73c?s=130&amp;d=mm&amp;r=g 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+			<div class="comment-content">
+				<div class="author-comment">
+					<cite class="fn">David</cite> 					<div class="comment-meta commentmetadata"></div><!-- .comment-meta .commentmetadata -->
+					<div class="clear"></div>
+				</div>
+
+				
+				<p>Wow these all templates are so good and very attractive which is the best for attracting more visits.. thanks for sharing this information. and i hope you will always keep this types of information in future&#8230; thanks</p>
+			</div>
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-4183' onclick='return addComment.moveForm( "comment-4183", "4183", "respond", "3858" )' aria-label='Reply to David'>Reply</a></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	<ul class="children">
+	<li id="comment-4343">
+		<div  class="comment odd alt depth-2 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='https://secure.gravatar.com/avatar/f60592227adaf374262c4fedbeccdcee?s=65&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/f60592227adaf374262c4fedbeccdcee?s=130&amp;d=mm&amp;r=g 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+			<div class="comment-content">
+				<div class="author-comment">
+					<cite class="fn">amit</cite> 					<div class="comment-meta commentmetadata"></div><!-- .comment-meta .commentmetadata -->
+					<div class="clear"></div>
+				</div>
+
+				
+				<p>very nice template,i like all template thank u for posting</p>
+			</div>
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-4343' onclick='return addComment.moveForm( "comment-4343", "4343", "respond", "3858" )' aria-label='Reply to amit'>Reply</a></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li id="comment-4989">
+		<div  class="comment even thread-odd thread-alt depth-1 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='https://secure.gravatar.com/avatar/d9c3f8a94c057d02b54a440fedffc0c6?s=65&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d9c3f8a94c057d02b54a440fedffc0c6?s=130&amp;d=mm&amp;r=g 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+			<div class="comment-content">
+				<div class="author-comment">
+					<cite class="fn">pradeep</cite> 					<div class="comment-meta commentmetadata"></div><!-- .comment-meta .commentmetadata -->
+					<div class="clear"></div>
+				</div>
+
+				
+				<p>Great creativity &#8230;thanks to share templates .</p>
+			</div>
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-4989' onclick='return addComment.moveForm( "comment-4989", "4989", "respond", "3858" )' aria-label='Reply to pradeep'>Reply</a></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li id="comment-8276">
+		<div  class="comment odd alt thread-even depth-1 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='https://secure.gravatar.com/avatar/45a04b4f07137b71ebff9f066c765548?s=65&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/45a04b4f07137b71ebff9f066c765548?s=130&amp;d=mm&amp;r=g 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+			<div class="comment-content">
+				<div class="author-comment">
+					<cite class="fn">Mary</cite> 					<div class="comment-meta commentmetadata"></div><!-- .comment-meta .commentmetadata -->
+					<div class="clear"></div>
+				</div>
+
+				
+				<p>Hi guys, great collection!<br />
+I like CoralixThemes Landing Pages.<br />
+They have a high quality design and code.<br />
+I also like them because they use Bootstrap and I can change anything from the template.<br />
+This is my experience, regards.</p>
+			</div>
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-8276' onclick='return addComment.moveForm( "comment-8276", "8276", "respond", "3858" )' aria-label='Reply to Mary'>Reply</a></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li id="comment-27331">
+		<div  class="comment even thread-odd thread-alt depth-1 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='https://secure.gravatar.com/avatar/7409674599f8fc928e5ab191219d22c0?s=65&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/7409674599f8fc928e5ab191219d22c0?s=130&amp;d=mm&amp;r=g 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+			<div class="comment-content">
+				<div class="author-comment">
+					<cite class="fn">Nafria</cite> 					<div class="comment-meta commentmetadata"></div><!-- .comment-meta .commentmetadata -->
+					<div class="clear"></div>
+				</div>
+
+				
+				<p>Wow these all templates are so good and very attractive which is the best for attracting more visits.. thanks for sharing this information. and you shared a great tips for landing pages.it help me lot.</p>
+			</div>
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-27331' onclick='return addComment.moveForm( "comment-27331", "27331", "respond", "3858" )' aria-label='Reply to Nafria'>Reply</a></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li id="comment-51816">
+		<div  class="comment odd alt thread-even depth-1 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='https://secure.gravatar.com/avatar/7755547d906263ea888054922b55def7?s=65&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/7755547d906263ea888054922b55def7?s=130&amp;d=mm&amp;r=g 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+			<div class="comment-content">
+				<div class="author-comment">
+					<cite class="fn">Al Rayhan</cite> 					<div class="comment-meta commentmetadata"></div><!-- .comment-meta .commentmetadata -->
+					<div class="clear"></div>
+				</div>
+
+				
+				<p>Really nice collection, you can add AppEx from landing page category,</p>
+			</div>
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-51816' onclick='return addComment.moveForm( "comment-51816", "51816", "respond", "3858" )' aria-label='Reply to Al Rayhan'>Reply</a></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li id="comment-214374">
+		<div  class="comment even thread-odd thread-alt depth-1 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='https://secure.gravatar.com/avatar/97442ec077103322d947c4b476ff793a?s=65&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/97442ec077103322d947c4b476ff793a?s=130&amp;d=mm&amp;r=g 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+			<div class="comment-content">
+				<div class="author-comment">
+					<cite class="fn">Annie</cite> 					<div class="comment-meta commentmetadata"></div><!-- .comment-meta .commentmetadata -->
+					<div class="clear"></div>
+				</div>
+
+				
+				<p>Thank for a great collection.</p>
+			</div>
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-214374' onclick='return addComment.moveForm( "comment-214374", "214374", "respond", "3858" )' aria-label='Reply to Annie'>Reply</a></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li id="comment-275724">
+		<div  class="comment odd alt thread-even depth-1 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='https://secure.gravatar.com/avatar/0bd6d57f9a6e8d700bd38780a431fac0?s=65&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/0bd6d57f9a6e8d700bd38780a431fac0?s=130&amp;d=mm&amp;r=g 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+			<div class="comment-content">
+				<div class="author-comment">
+					<cite class="fn">Nikita</cite> 					<div class="comment-meta commentmetadata"></div><!-- .comment-meta .commentmetadata -->
+					<div class="clear"></div>
+				</div>
+
+				
+				<p>But this templates is not free!!!</p>
+			</div>
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-275724' onclick='return addComment.moveForm( "comment-275724", "275724", "respond", "3858" )' aria-label='Reply to Nikita'>Reply</a></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li id="comment-287570">
+		<div  class="comment even thread-odd thread-alt depth-1 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='https://secure.gravatar.com/avatar/a3edf64e6d0d4ab6ec343e37e44c856e?s=65&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/a3edf64e6d0d4ab6ec343e37e44c856e?s=130&amp;d=mm&amp;r=g 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+			<div class="comment-content">
+				<div class="author-comment">
+					<cite class="fn">Justresponsive</cite> 					<div class="comment-meta commentmetadata"></div><!-- .comment-meta .commentmetadata -->
+					<div class="clear"></div>
+				</div>
+
+				
+				<p>Your landing page collection is really nice &amp; helpful for webdesigner.I think each landing page templates is schematic pretty well. Thanks for this handy contribution.Awesome, I surfed web and found your landing page template are standing at top of the echelon.Thanks !</p>
+			</div>
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-287570' onclick='return addComment.moveForm( "comment-287570", "287570", "respond", "3858" )' aria-label='Reply to Justresponsive'>Reply</a></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li id="comment-287608">
+		<div  class="comment odd alt thread-even depth-1 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='https://secure.gravatar.com/avatar/83c3c243276757c37a5d25c93a9e2873?s=65&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/83c3c243276757c37a5d25c93a9e2873?s=130&amp;d=mm&amp;r=g 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+			<div class="comment-content">
+				<div class="author-comment">
+					<cite class="fn">Shiva Naidu</cite> 					<div class="comment-meta commentmetadata"></div><!-- .comment-meta .commentmetadata -->
+					<div class="clear"></div>
+				</div>
+
+				
+				<p>Superb html landing page templates,<br />
+After seeing this now I decide to redesign my website.</p>
+			</div>
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-287608' onclick='return addComment.moveForm( "comment-287608", "287608", "respond", "3858" )' aria-label='Reply to Shiva Naidu'>Reply</a></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li id="comment-287675">
+		<div  class="comment even thread-odd thread-alt depth-1 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='https://secure.gravatar.com/avatar/eb68909e42b78a993609042b63a0623e?s=65&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/eb68909e42b78a993609042b63a0623e?s=130&amp;d=mm&amp;r=g 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+			<div class="comment-content">
+				<div class="author-comment">
+					<cite class="fn">oLanding</cite> 					<div class="comment-meta commentmetadata"></div><!-- .comment-meta .commentmetadata -->
+					<div class="clear"></div>
+				</div>
+
+				
+				<p>Hey Allie Kingsley,<br />
+     Your collection of landing page templates is superb. I got many ideas from here. This is very informative post about landing pages ideas. All design is pretty good. We have also a collection of landing pages with new ideas and followed Google Guidelines. olanding.com</p>
+			</div>
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-287675' onclick='return addComment.moveForm( "comment-287675", "287675", "respond", "3858" )' aria-label='Reply to oLanding'>Reply</a></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li id="comment-293445">
+		<div  class="comment odd alt thread-even depth-1 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='https://secure.gravatar.com/avatar/c979961190ff371547dcb631e0bb100e?s=65&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/c979961190ff371547dcb631e0bb100e?s=130&amp;d=mm&amp;r=g 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+			<div class="comment-content">
+				<div class="author-comment">
+					<cite class="fn"><a href='http://www.webaspiration.com/web-design-company-in-haryana/' rel='external nofollow' class='url'>Brian</a></cite> 					<div class="comment-meta commentmetadata"></div><!-- .comment-meta .commentmetadata -->
+					<div class="clear"></div>
+				</div>
+
+				
+				<p>Please remove pages that has expired. Overall Great collection allie.</p>
+			</div>
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-293445' onclick='return addComment.moveForm( "comment-293445", "293445", "respond", "3858" )' aria-label='Reply to Brian'>Reply</a></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li id="comment-370894">
+		<div  class="comment even thread-odd thread-alt depth-1 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='https://secure.gravatar.com/avatar/db8fa8c07e25e6d17e74844341169bd3?s=65&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/db8fa8c07e25e6d17e74844341169bd3?s=130&amp;d=mm&amp;r=g 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+			<div class="comment-content">
+				<div class="author-comment">
+					<cite class="fn"><a href='http://www.inovatik.com' rel='external nofollow' class='url'>Lucian Tartea</a></cite> 					<div class="comment-meta commentmetadata"></div><!-- .comment-meta .commentmetadata -->
+					<div class="clear"></div>
+				</div>
+
+				
+				<p>Nice mix of free and premium landing page templates. I especially love Bent&#8217;s stylish design and smooth animations. Thanks for this collection.</p>
+			</div>
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-370894' onclick='return addComment.moveForm( "comment-370894", "370894", "respond", "3858" )' aria-label='Reply to Lucian Tartea'>Reply</a></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li id="comment-371176">
+		<div  class="comment odd alt thread-even depth-1 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='https://secure.gravatar.com/avatar/3d815cd3895c31cb1adbf3dcc5a9909e?s=65&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/3d815cd3895c31cb1adbf3dcc5a9909e?s=130&amp;d=mm&amp;r=g 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+			<div class="comment-content">
+				<div class="author-comment">
+					<cite class="fn">Alhana</cite> 					<div class="comment-meta commentmetadata"></div><!-- .comment-meta .commentmetadata -->
+					<div class="clear"></div>
+				</div>
+
+				
+				<p>Hype so clean and modern, yesterday I was looking for a similar template and find one among many options for different landing page and looked clean from affpress.com, MINIMA</p>
+			</div>
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-371176' onclick='return addComment.moveForm( "comment-371176", "371176", "respond", "3858" )' aria-label='Reply to Alhana'>Reply</a></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li id="comment-371186">
+		<div  class="comment even thread-odd thread-alt depth-1 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='https://secure.gravatar.com/avatar/4ace97236e164cdf03a88aa203f857a1?s=65&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/4ace97236e164cdf03a88aa203f857a1?s=130&amp;d=mm&amp;r=g 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+			<div class="comment-content">
+				<div class="author-comment">
+					<cite class="fn"><a href='http://www.bestdesignhelp.com/' rel='external nofollow' class='url'>BestDesignHelp</a></cite> 					<div class="comment-meta commentmetadata"></div><!-- .comment-meta .commentmetadata -->
+					<div class="clear"></div>
+				</div>
+
+				
+				<p>Wonderful collection of  HTML Landing Page Templates , Thanks for the encouragement ! Katemi is the informative landing page templates. Don’t forget follow us to get update latest free html landing page in the next time. We always keep it fresh :)</p>
+			</div>
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-371186' onclick='return addComment.moveForm( "comment-371186", "371186", "respond", "3858" )' aria-label='Reply to BestDesignHelp'>Reply</a></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li id="comment-371336">
+		<div  class="comment odd alt thread-even depth-1 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='https://secure.gravatar.com/avatar/f0a797533c15b477a8b99e30156767a7?s=65&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/f0a797533c15b477a8b99e30156767a7?s=130&amp;d=mm&amp;r=g 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+			<div class="comment-content">
+				<div class="author-comment">
+					<cite class="fn">Amanda Ayers</cite> 					<div class="comment-meta commentmetadata"></div><!-- .comment-meta .commentmetadata -->
+					<div class="clear"></div>
+				</div>
+
+				
+				<p>Thank you very much for this huge list! You can also check out another very good free bootstrap theme that I discovered yesterday, it is brand new, take a look here: <a href="http://prepbootstrap.com/bootstrap-theme/event-planner" rel="nofollow" class="external">http://prepbootstrap.com/bootstrap-theme/event-planner</a></p>
+			</div>
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-371336' onclick='return addComment.moveForm( "comment-371336", "371336", "respond", "3858" )' aria-label='Reply to Amanda Ayers'>Reply</a></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li id="comment-371691">
+		<div  class="comment even thread-odd thread-alt depth-1 comment-wrap" >
+			<div class="comment-avatar"><img alt='' src='https://secure.gravatar.com/avatar/6c6a87e964556c363e0d446bcd3b6d27?s=65&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/6c6a87e964556c363e0d446bcd3b6d27?s=130&amp;d=mm&amp;r=g 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+			<div class="comment-content">
+				<div class="author-comment">
+					<cite class="fn">Jack Delson</cite> 					<div class="comment-meta commentmetadata"></div><!-- .comment-meta .commentmetadata -->
+					<div class="clear"></div>
+				</div>
+
+				
+				<p>Bookmarked. Have been looking for something like this for weeks and finally stumbled here. Thanks for sharing the list. Gonna try some of them :)</p>
+			</div>
+			<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-371691' onclick='return addComment.moveForm( "comment-371691", "371691", "respond", "3858" )' aria-label='Reply to Jack Delson'>Reply</a></div><!-- .reply -->
+		</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+</ol>
+				
+		 
+
+			
+					
+			
+		</div>
+	</div><!-- #comments-box -->
+			
+
+<div class="clear"></div>
+				<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/html-landing-page-templates/#respond" style="display:none;">Cancel reply</a></small></h3>				<form action="https://dcrazed.com/wp-comments-post.php?wpe-comment-post=dcrazed" method="post" id="commentform" class="comment-form" novalidate>
+					<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="614ad-comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea><textarea name="comment" style="display:none" rows="1" cols="1"></textarea></p><p><div  id="g-recaptcha-0" class="g-recaptcha" data-sitekey="6LcaHygTAAAAAOPSYnoxabOxBcuc7tCTW6vsAp4B" data-theme="light"></div><noscript>Please enable JavaScript to submit this form.<br></noscript></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" aria-required='true' required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" aria-required='true' required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='3858' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>				</form>
+					</div><!-- #respond -->
+		
+
+</div><!-- #comments -->
+		
+	</div><!-- .content -->
+<aside id="sidebar">
+	<div class="theiaStickySidebar">
+<div id="text-20" class="widget widget_text"><div class="widget-top"><h4>Enjoy our page ? Like &#038; Share, or</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">			<div class="textwidget"><div class="g-plusone" data-href="https://dcrazed.com/"></div><br>
+<div style="margin:10px 0 12px 0" class="fb-like" data-href="https://dcrazed.com/" data-width="300px" data-layout="standard" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div><br>
+
+<a href="https://twitter.com/designscrazed" class="twitter-follow-button external" data-show-count="false" rel="nofollow">Follow @designscrazed</a>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+		</div></div><!-- .widget /--><div id="social-8" class="widget social-icons-widget"><div class="widget-top"><h4>Follow us</h4><div class="stripe-line"></div></div>
+						<div class="widget-container">		<div class="social-icons social-colored">
+		<a class="ttip-none" title="Rss" href="https://feeds.feedburner.com/Dcrazed" ><i class="fa fa-rss"></i></a><a class="ttip-none" title="Google+" href="https://plus.google.com/+Designscrazed" ><i class="fa fa-google-plus"></i></a><a class="ttip-none" title="Facebook" href="https://www.facebook.com/Designscrazed-547192772015637/" ><i class="fa fa-facebook"></i></a><a class="ttip-none" title="Twitter" href="https://twitter.com/designscrazed" ><i class="fa fa-twitter"></i></a>
+			</div>
+
+</div></div><!-- .widget /-->	<div class="widget" id="tabbed-widget">
+		<div class="widget-container">
+			<div class="widget-top">
+				<ul class="tabs posts-taps">
+				<li class="tabs"><a href="#tab2">Recent</a></li><li class="tabs"><a href="#tab1">Popular</a></li>				</ul>
+			</div>
+			
+						<div id="tab2" class="tabs-wrap">
+				<ul>
+							<li >
+							<div class="post-thumbnail">
+					<a href="https://dcrazed.com/free-vector-web-icons/" rel="bookmark"><img width="110" height="75" src="https://dcrazed.com/wp-content/uploads/2016/02/Valentine-Day-Icons-110x75.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="Valentine Day Icons - vector files" /><span class="fa overlay-icon"></span></a>
+				</div><!-- post-thumbnail /-->
+						<h3><a href="https://dcrazed.com/free-vector-web-icons/">90+ Free High Quality Vector Web Icon Sets</a></h3>
+			 		</li>
+				<li >
+							<div class="post-thumbnail">
+					<a href="https://dcrazed.com/business-logo-inspiration/" rel="bookmark"><img width="110" height="75" src="https://dcrazed.com/wp-content/uploads/2016/02/Lazy-Business-110x75.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="Lazy Business logo design" /><span class="fa overlay-icon"></span></a>
+				</div><!-- post-thumbnail /-->
+						<h3><a href="https://dcrazed.com/business-logo-inspiration/">43 Examples of Business Logos for Design Inspiration</a></h3>
+			 		</li>
+				<li >
+							<div class="post-thumbnail">
+					<a href="https://dcrazed.com/vcard-wordpress-themes/" rel="bookmark"><img width="110" height="75" src="https://dcrazed.com/wp-content/uploads/2015/05/Profession-110x75.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="vcard and resume wordpress themes" /><span class="fa overlay-icon"></span></a>
+				</div><!-- post-thumbnail /-->
+						<h3><a href="https://dcrazed.com/vcard-wordpress-themes/">40+ Best vCard Resume WordPress Themes</a></h3>
+			 		</li>
+				<li >
+							<div class="post-thumbnail">
+					<a href="https://dcrazed.com/best-free-resume-templates/" rel="bookmark"><img width="110" height="75" src="https://dcrazed.com/wp-content/uploads/2016/02/vertical-resume-template-110x75.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="Vertical Resume Template - free psd, word doc" /><span class="fa overlay-icon"></span></a>
+				</div><!-- post-thumbnail /-->
+						<h3><a href="https://dcrazed.com/best-free-resume-templates/">26 Best Free Resume Templates | PSD, AI, Word DocX</a></h3>
+			 		</li>
+				<li >
+							<div class="post-thumbnail">
+					<a href="https://dcrazed.com/html5-church-website-templates/" rel="bookmark"><img width="110" height="75" src="https://dcrazed.com/wp-content/uploads/2015/12/CharityFund-110x75.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="Charity &amp; Crowdfunding HTML Template" /><span class="fa overlay-icon"></span></a>
+				</div><!-- post-thumbnail /-->
+						<h3><a href="https://dcrazed.com/html5-church-website-templates/">26 Best HTML5 Church and Charity Website Templates</a></h3>
+			 		</li>
+				<li >
+							<div class="post-thumbnail">
+					<a href="https://dcrazed.com/wordpress-subscription-newsletter-plugins/" rel="bookmark"><img width="110" height="75" src="https://dcrazed.com/wp-content/uploads/2013/09/newsletter-plugin-110x75.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="newsletter plugin" /><span class="fa overlay-icon"></span></a>
+				</div><!-- post-thumbnail /-->
+						<h3><a href="https://dcrazed.com/wordpress-subscription-newsletter-plugins/">30+ WordPress Newsletter and Email Subscription Plugins</a></h3>
+			 		</li>
+				<li >
+							<div class="post-thumbnail">
+					<a href="https://dcrazed.com/best-wordpress-poll-plugins-adding-polls/" rel="bookmark"><img width="110" height="75" src="https://dcrazed.com/wp-content/uploads/2014/03/poll-plugin-110x75.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="poll plugin" /><span class="fa overlay-icon"></span></a>
+				</div><!-- post-thumbnail /-->
+						<h3><a href="https://dcrazed.com/best-wordpress-poll-plugins-adding-polls/">19 Best WordPress Poll Plugins for Adding Polls</a></h3>
+			 		</li>
+			
+				</ul>
+			</div>
+						<div id="tab1" class="tabs-wrap">
+				<ul>
+								<li >
+							<div class="post-thumbnail">
+					<a href="https://dcrazed.com/free-responsive-html5-css3-templates/" title="66 Free Responsive HTML5 CSS3 Website Templates 2017" rel="bookmark"><img width="110" height="75" src="https://dcrazed.com/wp-content/uploads/2016/07/space-free-agency-template-110x75.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="space -free html5 css3 template" /><span class="fa overlay-icon"></span></a>
+				</div><!-- post-thumbnail /-->
+							<h3><a href="https://dcrazed.com/free-responsive-html5-css3-templates/">66 Free Responsive HTML5 CSS3 Website Templates 2017</a></h3>
+				 								<span class="post-comments post-comments-widget"><i class="fa fa-comments"></i><a href="https://dcrazed.com/free-responsive-html5-css3-templates/#comments">327</a></span>
+							</li>
+				<li >
+							<div class="post-thumbnail">
+					<a href="https://dcrazed.com/best-free-blogger-templates/" title="55+ Best Free Responsive Blogger Templates 2017" rel="bookmark"><img width="110" height="75" src="https://dcrazed.com/wp-content/uploads/2016/07/technext-technology-blog-110x75.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="technext - free technology blogger templates" /><span class="fa overlay-icon"></span></a>
+				</div><!-- post-thumbnail /-->
+							<h3><a href="https://dcrazed.com/best-free-blogger-templates/">55+ Best Free Responsive Blogger Templates 2017</a></h3>
+				 								<span class="post-comments post-comments-widget"><i class="fa fa-comments"></i><a href="https://dcrazed.com/best-free-blogger-templates/#comments">323</a></span>
+							</li>
+				<li >
+							<div class="post-thumbnail">
+					<a href="https://dcrazed.com/css-html-login-form-templates/" title="35 Free CSS3 HTML5 Login Form Templates" rel="bookmark"><img width="110" height="75" src="https://dcrazed.com/wp-content/uploads/2015/09/minimal-login-form-110x75.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="minimal login form in css3 and html5" /><span class="fa overlay-icon"></span></a>
+				</div><!-- post-thumbnail /-->
+							<h3><a href="https://dcrazed.com/css-html-login-form-templates/">35 Free CSS3 HTML5 Login Form Templates</a></h3>
+				 								<span class="post-comments post-comments-widget"><i class="fa fa-comments"></i><a href="https://dcrazed.com/css-html-login-form-templates/#comments">114</a></span>
+							</li>
+				<li >
+							<div class="post-thumbnail">
+					<a href="https://dcrazed.com/free-responsive-wordpress-themes/" title="50 Best Free Responsive WordPress Themes 2017" rel="bookmark"><img width="110" height="75" src="https://dcrazed.com/wp-content/uploads/2015/06/recepter-theme1-110x75.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="recepter theme - for restaurants, blogs, free wordpress themes" /><span class="fa overlay-icon"></span></a>
+				</div><!-- post-thumbnail /-->
+							<h3><a href="https://dcrazed.com/free-responsive-wordpress-themes/">50 Best Free Responsive WordPress Themes 2017</a></h3>
+				 								<span class="post-comments post-comments-widget"><i class="fa fa-comments"></i><a href="https://dcrazed.com/free-responsive-wordpress-themes/#comments">106</a></span>
+							</li>
+				<li >
+							<div class="post-thumbnail">
+					<a href="https://dcrazed.com/free-responsive-jquery-image-sliders/" title="30 Free Responsive jQuery Image Sliders and Slideshows" rel="bookmark"><img width="110" height="75" src="https://dcrazed.com/wp-content/uploads/2016/03/jquery-new-slider-free-110x75.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="Free Responsive jQuery Image Sliders" /><span class="fa overlay-icon"></span></a>
+				</div><!-- post-thumbnail /-->
+							<h3><a href="https://dcrazed.com/free-responsive-jquery-image-sliders/">30 Free Responsive jQuery Image Sliders and Slideshows</a></h3>
+				 								<span class="post-comments post-comments-widget"><i class="fa fa-comments"></i><a href="https://dcrazed.com/free-responsive-jquery-image-sliders/#comments">91</a></span>
+							</li>
+				<li >
+							<div class="post-thumbnail">
+					<a href="https://dcrazed.com/free-psd-business-card-templates/" title="50+ Best Free PSD Business Card Templates" rel="bookmark"><img width="110" height="75" src="https://dcrazed.com/wp-content/uploads/2015/04/icreative-110x75.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="Free PSD Business Card Templates" /><span class="fa overlay-icon"></span></a>
+				</div><!-- post-thumbnail /-->
+							<h3><a href="https://dcrazed.com/free-psd-business-card-templates/">50+ Best Free PSD Business Card Templates</a></h3>
+				 								<span class="post-comments post-comments-widget"><i class="fa fa-comments"></i><a href="https://dcrazed.com/free-psd-business-card-templates/#comments">83</a></span>
+							</li>
+				<li >
+							<div class="post-thumbnail">
+					<a href="https://dcrazed.com/free-premium-wordpress-themes/" title="35+ Free Premium WordPress Themes 2017" rel="bookmark"><img width="110" height="75" src="https://dcrazed.com/wp-content/uploads/2013/12/BigFoot-110x75.jpg" class="attachment-tie-small size-tie-small wp-post-image" alt="bold free premium wordpress themes for creatives" /><span class="fa overlay-icon"></span></a>
+				</div><!-- post-thumbnail /-->
+							<h3><a href="https://dcrazed.com/free-premium-wordpress-themes/">35+ Free Premium WordPress Themes 2017</a></h3>
+				 								<span class="post-comments post-comments-widget"><i class="fa fa-comments"></i><a href="https://dcrazed.com/free-premium-wordpress-themes/#comments">81</a></span>
+							</li>
+		
+				</ul>
+			</div>
+						<div id="tab3" class="tabs-wrap">
+				<ul>
+						<li>
+		<div class="post-thumbnail" style="width:55px">
+			<img alt='' src='https://secure.gravatar.com/avatar/373b7676ad5d796a946095744e1b0392?s=55&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/373b7676ad5d796a946095744e1b0392?s=110&amp;d=mm&amp;r=g 2x' class='avatar avatar-55 photo' height='55' width='55' />		</div>
+		<a href="https://dcrazed.com/top-free-blogging-platforms/#comment-371734">
+		Rio: Glad to know that this topic helped you find more blog sites. :)... </a>
+	</li>
+	<li>
+		<div class="post-thumbnail" style="width:55px">
+			<img alt='' src='https://secure.gravatar.com/avatar/373b7676ad5d796a946095744e1b0392?s=55&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/373b7676ad5d796a946095744e1b0392?s=110&amp;d=mm&amp;r=g 2x' class='avatar avatar-55 photo' height='55' width='55' />		</div>
+		<a href="https://dcrazed.com/best-html-ecommerce-website-templates/#comment-371733">
+		Rio: You can use it for one website and remove copyright for it. :)... </a>
+	</li>
+	<li>
+		<div class="post-thumbnail" style="width:55px">
+			<img alt='' src='https://secure.gravatar.com/avatar/373b7676ad5d796a946095744e1b0392?s=55&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/373b7676ad5d796a946095744e1b0392?s=110&amp;d=mm&amp;r=g 2x' class='avatar avatar-55 photo' height='55' width='55' />		</div>
+		<a href="https://dcrazed.com/best-wordpress-affiliate-marketing-themes/#comment-371732">
+		Rio: Why not ?... </a>
+	</li>
+	<li>
+		<div class="post-thumbnail" style="width:55px">
+			<img alt='' src='https://secure.gravatar.com/avatar/373b7676ad5d796a946095744e1b0392?s=55&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/373b7676ad5d796a946095744e1b0392?s=110&amp;d=mm&amp;r=g 2x' class='avatar avatar-55 photo' height='55' width='55' />		</div>
+		<a href="https://dcrazed.com/best-wordpress-affiliate-marketing-themes/#comment-371731">
+		Rio: Both are slightly different builds. I suggest sahifa as it works for me.... </a>
+	</li>
+	<li>
+		<div class="post-thumbnail" style="width:55px">
+			<img alt='' src='https://secure.gravatar.com/avatar/373b7676ad5d796a946095744e1b0392?s=55&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/373b7676ad5d796a946095744e1b0392?s=110&amp;d=mm&amp;r=g 2x' class='avatar avatar-55 photo' height='55' width='55' />		</div>
+		<a href="https://dcrazed.com/best-php-ajax-contact-forms/#comment-371730">
+		Rio: thanks for the info dear.... </a>
+	</li>
+	<li>
+		<div class="post-thumbnail" style="width:55px">
+			<img alt='' src='https://secure.gravatar.com/avatar/1b3e6900e8daf218618a06ed75391625?s=55&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/1b3e6900e8daf218618a06ed75391625?s=110&amp;d=mm&amp;r=g 2x' class='avatar avatar-55 photo' height='55' width='55' />		</div>
+		<a href="https://dcrazed.com/top-free-blogging-platforms/#comment-371727">
+		T I Antor: Luxurious list! I did not know about svbtle, postach, pen, postagon, and silverb... </a>
+	</li>
+	<li>
+		<div class="post-thumbnail" style="width:55px">
+			<img alt='' src='https://secure.gravatar.com/avatar/0aa70966b2400444cd05109e45dd2e68?s=55&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/0aa70966b2400444cd05109e45dd2e68?s=110&amp;d=mm&amp;r=g 2x' class='avatar avatar-55 photo' height='55' width='55' />		</div>
+		<a href="https://dcrazed.com/free-logo-psd-mock-ups/#comment-371726">
+		Tina Sharma: Hi Rio, The logo creation is very hard. Thanx for sharing your thoughts. Can you... </a>
+	</li>
+				</ul>
+			</div>
+						<div id="tab4" class="tabs-wrap tagcloud">
+							</div>
+			
+		</div>
+	</div><!-- .widget /-->
+<div id="wp_subscribe-4" class="widget wp_subscribe">            
+            <div class="wp-subscribe no-name-field" id="wp-subscribe" style="background: #f5f5f5;">
+                <h4 class="title" style="color: #2a2f2d;">Subscribe to our exclusive list!</h4>
+                <p class="text" style="color: #959494;">By subscribing to our mailing list you get only exclusive releases.</p>
+                
+                                    
+                    <form action="https://dcrazed.com/html-landing-page-templates?name=html-landing-page-templates&mailchimp_signup=1" method="post" class="wp-subscribe-form wp-subscribe-mailchimp" id="wp-subscribe-form-1">
+                                                <input class="email-field" type="text" value="" placeholder="Enter your email here" name="mailchimp_email" style="background: #e7e7e7; color: #999999">
+                        <input class="submit" name="submit" type="submit" value="Sign Up Now" style="background: #3291d1; color: #ffffff">
+                        <input type="hidden" name="widget_id" value="wp_subscribe-4" />
+                                                <input type="hidden" id="_wpnonce" name="_wpnonce" value="0c8fc0cd1c" /><input type="hidden" name="_wp_http_referer" value="/html-landing-page-templates/" />                    </form>
+
+                            <p class="thanks" style="color: #959494; display: none;">Thank you for subscribing. We respect your privacy and take protecting it seriously.</p>
+                        
+                            <p class="error" style="color: #959494; display: none;">Something went wrong.</p>
+                                        <div class="clear"></div>
+                
+                <p class="footer-text" style="color: #959494;"></p>
+            </div><!--subscribe_widget-->
+        
+        </div></div><!-- .widget /-->			<div id="text-html-widget-8" class="text-html-box" style="text-align:center;">
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- large scraper side -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-4397412252424400"
+     data-ad-slot="4171524839"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>			</div>
+			</div><!-- .theiaStickySidebar /-->
+</aside><!-- #sidebar /-->	<div class="clear"></div>
+</div><!-- .container /-->
+
+				
+<div class="clear"></div>
+<div class="footer-bottom">
+	<div class="container">
+		<div class="alignright">
+			<a href="https://dcrazed.com/terms/">Terms. </a><a href="https://dcrazed.com/advertise-with-us/">Advertise with Us</a>		</div>
+				<div class="social-icons">
+		<a class="ttip-none" title="Rss" href="https://feeds.feedburner.com/Dcrazed" target="_blank"><i class="fa fa-rss"></i></a><a class="ttip-none" title="Google+" href="https://plus.google.com/+Designscrazed" target="_blank"><i class="fa fa-google-plus"></i></a><a class="ttip-none" title="Facebook" href="https://www.facebook.com/Designscrazed-547192772015637/" target="_blank"><i class="fa fa-facebook"></i></a><a class="ttip-none" title="Twitter" href="https://twitter.com/designscrazed" target="_blank"><i class="fa fa-twitter"></i></a>
+			</div>
+
+		
+		<div class="alignleft">
+			Copyright © 2016, Designscrazed. 		</div>
+		<div class="clear"></div>
+	</div><!-- .Container -->
+</div><!-- .Footer bottom -->
+
+</div><!-- .inner-Wrapper -->
+</div><!-- #Wrapper -->
+</div><!-- .Wrapper-outer -->
+<div id="fb-root"></div>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.7&appId=412318062172764";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<div id="reading-position-indicator"></div>
+<!-- BEGIN recaptcha, injected by plugin wp-recaptcha-integration  -->
+<script type="text/javascript">
+		var recaptcha_widgets={};
+		function wp_recaptchaLoadCallback(){ 
+			try {
+				grecaptcha;
+			} catch(err){
+				return;
+			}
+			var e = document.querySelectorAll ? document.querySelectorAll('.g-recaptcha:not(.wpcf7-form-control)') : document.getElementsByClassName('g-recaptcha'),
+				form_submits;
+
+			for (var i=0;i<e.length;i++) {
+				(function(el){
+					var wid;
+					// check if captcha element is unrendered
+					if ( ! el.childNodes.length) {
+						wid = grecaptcha.render(el,{
+							'sitekey':'6LcaHygTAAAAAOPSYnoxabOxBcuc7tCTW6vsAp4B',
+							'theme':el.getAttribute('data-theme') || 'light'
+						});
+						el.setAttribute('data-widget-id',wid);
+					} else {
+						wid = el.getAttribute('data-widget-id');
+						grecaptcha.reset(wid);
+					}
+				})(e[i]);
+			}
+		}
+		
+		// if jquery present re-render jquery/ajax loaded captcha elements 
+		if ( typeof jQuery !== 'undefined' )
+			jQuery(document).ajaxComplete( function(evt,xhr,set){
+				if( xhr.responseText && xhr.responseText.indexOf('6LcaHygTAAAAAOPSYnoxabOxBcuc7tCTW6vsAp4B') !== -1)
+					wp_recaptchaLoadCallback();
+			} );
+		
+		</script><script src="https://www.google.com/recaptcha/api.js?onload=wp_recaptchaLoadCallback&#038;render=explicit" async defer></script>
+<!-- END recaptcha -->
+<script type="text/javascript">
+jQuery(document).ready(function(){
+  var wb_sidebar_1_options = { "sidebar" : "primary-widget-area", "margin_top" : 10, "margin_bottom" : 0, "screen_max_width" : 0, "width_inherit" : false, "widgets" : ['text-html-widget-8'] };
+  wb_sidebar(wb_sidebar_1_options);
+  setInterval(function () { wb_sidebar(wb_sidebar_1_options); }, 1500);
+});
+</script>
+<link rel='stylesheet' id='wp-subscribe-css'  href='https://dcrazed.com/wp-content/plugins/wp-subscribe-pro/css/wp-subscribe-form.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://dcrazed.com/wp-content/plugins/sticky-widget/js/wb_sticky_widget.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tie = {"mobile_menu_active":"true","mobile_menu_top":"","lightbox_all":"true","lightbox_gallery":"true","woocommerce_lightbox":"","lightbox_skin":null,"lightbox_thumb":"vertical","lightbox_arrows":"","sticky_sidebar":"","is_singular":"1","SmothScroll":"true","reading_indicator":"true","lang_no_results":"No Results","lang_results_found":"Results Found"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://dcrazed.com/wp-content/themes/newv/js/custom-scripts.js'></script>
+<script type='text/javascript' src='https://dcrazed.com/wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='https://dcrazed.com/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wp_subscribe = {"ajaxurl":"https:\/\/dcrazed.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://dcrazed.com/wp-content/plugins/wp-subscribe-pro/js/wp-subscribe-form.js'></script>
+</body>
+</html>
